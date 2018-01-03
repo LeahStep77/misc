@@ -1,0 +1,1748 @@
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!--
+ 
+cached data at 21:12:47
+cached id b8984d54b98368259362065ad1cf545b
+-->
+<Document>
+<description>Latest incident updates nationally</description>
+<StyleMap id="m_ylw-pushpin_copy1">
+<Pair>
+<key>normal</key>
+<styleUrl>#s_ylw-pushpin</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="s_ylw-pushpin">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>https://inciweb.nwcg.gov/images/maps/helmet01.png</href>
+</Icon>
+<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffffcc</color>
+<scale>0</scale>
+</LabelStyle>
+<BalloonStyle>
+<text><strong>$[name]</strong><br /><br />$[description]</text>
+<textColor>ff000000</textColor>
+<color>00ffffff</color>
+<displayMode>default</displayMode>
+<scale>1</scale>
+</BalloonStyle>
+</Style>
+<Style id="s_ylw-pushpin_hl">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>https://inciweb.nwcg.gov/images/maps/helmet01.png</href>
+</Icon>
+<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle>
+<color>ffffffcc</color>
+<scale>0</scale>
+</LabelStyle>
+<BalloonStyle>
+<text><strong>$[name]</strong><br /><br />$[description]</text>
+<textColor>ff000000</textColor>
+<color>00ffffff</color>
+<displayMode>default</displayMode>
+<scale>1</scale>
+</BalloonStyle>
+</Style>
+<Folder class="parent_folder">
+<name>Thomas Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.10027777778</longitude>
+<latitude>34.429166666667</latitude>
+</LookAt>
+<Placemark>
+<name>Thomas Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 02 Jan 2018 20:58:55
+</p>
+<p>Incident is 92% contained.</p>
+<![CDATA[
+<p> <p>Goleta, Calif., January 2, 2018 — For Immediate Release. </p> <p>Start Date: December 4, 2017 Cause: Under Investigation Size: 281,893 acres </p> <p>Containment: 92% Personnel: 487 Structures Destroyed: 1,063 Structures Damaged: 280 </p> <p>Current Situation: Fire activity remained at a minimum Jan. 1 with cooler temperatures and increased humidity. Fire crews took advantage of the favorable conditions to seek out and extinguish areas of heat within the Thomas Fire perimeter. A slight chance of rain is forecast for Wednesday with about 1/10th of an inch of accumulation predicted. </p> <p>Firefighters are monitoring slowly burning and smoldering pockets of fire around Bear Heaven and Cherry Creek, where steep and rocky terrain makes the areas inaccessible and unsafe for direct attack by firefighters. Aircraft will collect infrared imagery over the areas today to assess hot spots and fire activity. For the second consecutive day, infrared data showed no heat being emitted around the Potrero Seco area. </p> <p>Crews also focused on repairing landscape affected by the construction of wildfire containment lines and other suppression activities. More than 120 miles of suppression repair to fire lines has been completed out of about 279 miles of containment lines. </p> <p>The public is reminded that even though some roads through closed areas are open, no trails or public access is allowed. Motorists and visitors should use caution as crews and heavy equipment remain active within the fire area, particularly on the East Camino Cielo and portions of Highway 154, as well as around the Rose Valley area, later progressing toward Freemont. </p> <p>The Los Padres National Forest is closed to the public within the Thomas Fire perimeter within the Santa Barbara and Ojai Ranger Districts. The Sage Hill Group Campground is temporarily closed while fire crews use the area as a base camp. The public also is advised to use extreme caution when in burned areas because fire-damaged trees continue to fall and rocks and other debris have been seen rolling down hillsides. </p> <p style="margin: 0in 8.85pt 0pt 0in; line-height: 102%;"> Level 3 fire restrictions are in effect for the Los Padres National Forest. Campfires are allowed only in designated-use sites, and no fires are allowed in the backcountry; portable stoves and lanterns (with an on-off switch) are only permitted with a valid California Campfire Permit. </p> <p style="margin: 0in 8.85pt 0pt 0in; line-height: 102%;"> </p> <p>The federal Burn Area Emergency Response (BAER) team and California Watershed Emergency Response Team (WERT) are assessing areas within the Thomas Fire for burn severity and identifying locations at risk for flooding, debris flows and other post-fire hazards. The teams will turn over their data to Santa Barbara County Office of Emergency Management and Ventura County Office of Emergency Services, who will develop emergency preparedness and response plans for their respective communities. </p> <p>County-based emergency service agencies are reviewing assessment reports from the BAER and WERT teams and working on emergency preparation plans for affected communities. After a wildfire, flood risk is usually highest until vegetation returns, which can take up to five years. Flood preparation information is available at <a href="http://www.countyofsb.org/pwd/floodprep.sbc">www.countyofsb.org/pwd/floodprep.sbc</a> for Santa Barbara County and <a href="http://www.venturacountyrecovers.org/">www.venturacountyrecovers.org</a> for Ventura County. </p> <p> </p> <p>Closures: </p> <p>Download the revised the Los Padres National Forest’s Thomas Fire <a href="https://inciweb.nwcg.gov/photos/CALPF/2017-12-06-1102-Thomas-Fire/related_files/pict20171128-232827-0.pdf">closure order</a> and <a href="https://inciweb.nwcg.gov/photos/CALPF/2017-12-06-1102-Thomas-Fire/related_files/pict20171128-215655-0.pdf">map</a>. </p> <p style="color: rgb(0, 0, 0); font-family: "Times New Roman",serif; font-size: 12pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-add-space: auto; mso-list: l0 level1 lfo2;"> Temporary closure of the East Camino Cielo from the San Marcos Station to Gibraltar Road from 7:30 to 9 a.m. and 3:30-7 p.m. daily. </p> <p> </p> <p>Air Quality: The <a href="http://www.vcapcd.org/">Ventura County Air Pollution Control District</a> has issued an air quality warning through today because of emissions from smoldering oil seepages in the Upper Ojai Valley. Last week Ventura County firefighters began applying a mixture of specialized foam and water to extinguish the natural oil seepages that had ignited from the Thomas Fire. For more information, contact the Air Pollution Control District at 805-662-6960. </p> <p>Flood Preparation: Santa Barbara and Ventura Counties are posting flood preparation and recovery information on the following websites: </p> <p><a href="http://www.countyofsb.org/pwd/water.sbc">www.countyofsb.org/pwd/water.sbc</a> </p> <p style="font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-list: l1 level1 lfo1;"> <a href="http://www.countyofsb.org/pwd/floodprep.sbc">www.countyofsb.org/pwd/floodprep.sbc</a> </p> <p style="font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-list: l1 level1 lfo1;"> <a href="http://countyofsb.org/thomasfire.sbc#recovery">countyofsb.org/thomasfire.sbc#recovery</a> </p> <p style="font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-list: l1 level1 lfo1;"> <a href="http://www.venturacountyrecovers.org/">www.venturacountyrecovers.org</a> </p> <p> </p> <p> </p> <p align="center" style="margin: 0in 0in 0pt; text-align: center;"> <a href="https://inciweb.nwcg.gov/incident/5670/"> </a><a href="https://twitter.com/LosPadresNF"> </a> <a href="https://www.flickr.com/photos/usfsregion5/albums/72157690590489204"> </a> <a href="https://www.facebook.com/lospadresnationalforest/"> </a> </p> <p align="center"> </p> <p align="center"> ### </p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5670/">View Thomas Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.10027777778</longitude>
+<latitude>34.429166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.10027777778,34.429166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Creek Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-118.33805555556</longitude>
+<latitude>34.334166666667</latitude>
+</LookAt>
+<Placemark>
+<name>Creek Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 02 Jan 2018 15:39:46
+</p>
+<p>Incident is 98% contained.</p>
+<![CDATA[
+<p>The Creek Fire started on Dec. 5 at 3:44 am four miles east of Sylmar, California. The fire is being managed by a Type 4 Incident Management Team, from the Angeles National Forest.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5669/">View Creek Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-118.33805555556</longitude>
+<latitude>34.334166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-118.33805555556,34.334166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Whittier Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.9525</longitude>
+<latitude>34.566944444444</latitude>
+</LookAt>
+<Placemark>
+<name>Whittier Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 01 Jan 2018 20:23:22
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p> </p><p>Start Date: July 8, 2017 Cause: Under Investigation Size: 18,430 acres Containment: 100% Personnel: 0</p><p>Location: Santa Ynez Mountains south of Lake Cachuma </p> <p>Current Situation: Los Padres National Forest officials declared the Whittier Fire “out” at 5 p.m. Sunday, Dec. 31, after a final infrared flight showed no heat remaining within the containment perimeter. </p><p>The Whittier Fire began July 8 near the Lake Cachuma Recreation Area and burned 18,430 acres across northwest Santa Barbara County, mostly on National Forest System lands. </p><p>The Burned Area Emergency Response (BAER) Team has evaluated the burned area watersheds and identified emergency treatments necessary to protect sensitive resources. </p><p> Information Sources: For more fire information, check <a href="file:///D:/Whittier%20Fire/inciweb.nwcg.gov/incident/5339/">inciweb.nwcg.gov</a> or call the Los Padres National Forest at (805) 968-6640, Monday through Friday from 8 a.m. to 4:30 p.m. </p> <p>Los Padres NF Closures: Information can be found at <a href="https://www.fs.usda.gov/alerts/lpnf/alerts-notices">https://www.fs.usda.gov/alerts/lpnf/alerts-notices</a>. </p> <p>Video Library: Learn more about the Fire and Fire-Related Topics Click here to watch a Video of <a href="https://inciweb.nwcg.gov/incident/photograph/5339/0/65906/" target="_self">Current Fire Conditions on the Whittier Fire, July 19th</a> Click here to watch a Video of <a href="https://inciweb.nwcg.gov/incident/photograph/5339/0/65752/" target="_self">Structure Protection Measures taken at Cold Springs Tavern, July 16th </a> Click here for a short video about the <a href="https://inciweb.nwcg.gov/incident/photograph/5339/0/65755/" target="_self">Role Of Liaison Officers in Managing Emergency Incidents</a> Click here for a short video about <a href="https://inciweb.nwcg.gov/incident/photograph/5339/0/66016/" target="_self">Burned Area Emergency Response (BAER) Teams</a> </p><p> </p><p style="margin: 0in 0in 0pt; line-height: normal;"> </p><p style="margin: 0in 0in 0pt; line-height: normal;"> </p><p style="margin: 0in 0in 8pt;"> </p> <p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5339/">View Whittier Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.9525</longitude>
+<latitude>34.566944444444</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.9525,34.566944444444,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Kaibab South Zone RX Fire Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-112.05666666667</longitude>
+<latitude>35.964166666667</latitude>
+</LookAt>
+<Placemark>
+<name>
+Kaibab South Zone RX Fire Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Thu, 21 Dec 2017 14:25:06
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p>There are no ignitions planned for the remainder of the 2017 calendar year on the south zone. Crews will continue working on the Reed Prescribed Fire project east of Tusayan only as weather conditions remain favorable for meeting forest health objectives and desired smoke dispersion.. Managers recognize the inconvenience smoke can cause and adjust tactics to limit the number of days smoke is in the air by burning smaller portions and only igniting every few days allowing ventilation to occur earlier and more rapidly. </p><p>When the Reed project resumes, smoke may be visible from Highway 64 and from the communities of Grand Canyon, Valle and Tusayan. Overnight smoke impacts are expected to lift and ventilate rapidly each morning as ground surface temperatures warm in the morning hours.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5160/">
+View Kaibab South Zone RX Fire Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-112.05666666667</longitude>
+<latitude>35.964166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-112.05666666667,35.964166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Los Burros Prescribed Burn Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-109.70611111111</longitude>
+<latitude>34.156111111111</latitude>
+</LookAt>
+<Placemark>
+<name>
+Los Burros Prescribed Burn Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 20 Dec 2017 15:41:13
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p> </p><p style="margin: 0in 0in 8pt;">The Apache-Sitgreaves National Forests’ Lakeside Ranger District completed the 457 acre prescribed burn within the Sepulveda unit of the Los Burros broadcast burn area on 12/14/2017. The Sepulveda Unit is about five miles south of Vernon, along Forest Service Road 96, and is surrounded by Forest Service Road 6, 6H and 96B. Smoke may continue to be visible in the local area, from Arizona State Highway 260, and U.S. Highway 60, in Round Valley, Vernon and Show Low. In the interest of safety, forest visitors are reminded to obey all traffic signs and use caution when traveling in the vicinity of the prescribed fire burn as firefighters and fire-related traffic may be in the area. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5671/">
+View Los Burros Prescribed Burn Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-109.70611111111</longitude>
+<latitude>34.156111111111</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-109.70611111111,34.156111111111,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Nagel Prescribed Burn Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-110.98305555556</longitude>
+<latitude>34.423888888889</latitude>
+</LookAt>
+<Placemark>
+<name>Nagel Prescribed Burn Prescribed Fire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 20 Dec 2017 15:40:00
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p>The Apache-Sitgreaves National Forests’ Black Mesa Ranger District conducted prescribed burn operations within Burn Blocks 1, 2, and 6 of the Nagel Forest Health Prescribed Burn area, from November 14 - 17. This burn was south of the Dutch Joe Ranch area. The burn was to the east of Forest Road 34, south of Forest Road 100, to the west of Forest Roads 117, and to the north of Forest Roads 9439 and 9429A. The burn blocks encompassed approximately 963 acres. Updated November 29: The Apache-Sitgreaves National Forests’ Black Mesa Ranger District conducted burning within Burn Block 5 of the Nagel Forest Health Prescribed Burn area, from November 29 through November 30. Updated December 8: The Apache-Sitgreaves National Forests’ Black Mesa Ranger District completed the Eastern half of Block 5 of the Nagel Burn area on December 5. 410 acres were burned in the northwestern half of the unit last week with a total of 1,997 acres treated all together. </p><p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5661/">
+View Nagel Prescribed Burn Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-110.98305555556</longitude>
+<latitude>34.423888888889</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-110.98305555556,34.423888888889,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Eagle Creek Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-121.90416666667</longitude>
+<latitude>45.630277777778</latitude>
+</LookAt>
+<Placemark>
+<name>Eagle Creek Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 20 Dec 2017 13:37:12
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p style="margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left: 0in"></p><p>Eagle Creek Fire was 100% contained on November 30, 2017.</p>The fire was reported September 2 at 4 p.m in the Columbia River Gorge National Scenic Area near the town of Cascade Locks, Oregon. The fire grew to 3,000 acres overnight that first night. During the night of September 4th and 5th, east winds, combined with excessive heat caused the fire rapidly increase in size pushing westward. <p style="margin: 12pt 0in;">By the morning of September 5th, the fire had grown to over 20,000 acres and had spotted across the Columbia River into Washington near Archer Mountain. The efforts of firefighters, cooler temperatures, and higher humidity helped slow fire growth in the days that followed, but the fire grew to the east and ultimately reached 48,831 acres. </p> <p style="margin: 12pt 0in;">Fire suppression repair – measures to mitigate erosion and restore areas impacted by constructing containment lines – have been completed. A BAER (Burned Area Emergency Response) team evaluated risks to life, property, and critical natural and cultural resources resulting from the impact of recent wildfires. The team provided recommendations for mitigations on National Forest System lands to prevent further damage to values at risk in the area. Specific concerns include falling trees, landslides, rockfall, and debris flow, which can be triggered by heavy rainfall or freeze/thaw cycles. Implementation of these mitigations is underway.</p> <p style="margin: 12pt 0in;">A <a href="https://www.fs.usda.gov/alerts/crgnsa/alerts-notices/?aid=41589" target="_self">closure</a> remains in place for the burned area to protect public and employee safety, which is the top priority implemented by fire managers. For more information about the Eagle Creek Fire Response, visit the <a href="https://www.fs.usda.gov/detail/crgnsa/fire/?cid=fseprd561692" style="" target="_self">Columbia River Gorge National Scenic Area website</a>.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5584/">View Eagle Creek Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-121.90416666667</longitude>
+<latitude>45.630277777778</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-121.90416666667,45.630277777778,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Horse Creek Complex Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-122.01388888889</longitude>
+<latitude>44.093888888889</latitude>
+</LookAt>
+<Placemark>
+<name>Horse Creek Complex Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Thu, 12 Oct 2017 10:33:37
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p>This site will no longer be updated unless there is significant activity.For information contact the McKenzie River Ranger District, Monday through Friday, 8:00 a.m. - 4:30 p.m., at (541) 822-3381</p><p>Overview:</p><p>Total all fires: 42,489 acresAcreage based on an IR flight Sept. 27, at 8:46 p.m.</p> <p>AVENUE FIRE (3,587 acres) </p> <p>• Location: McKenzie River Ranger District, three miles southeast of McKenzie Bridge </p> <p>• Report Date: August 11 </p> <p>• Cause: Lightning </p> <p>OLALLIE LOOKOUT FIRE (1,586 acres) </p> <p>• Location: McKenzie River Ranger District, within the Three Sisters Wilderness </p> <p>• Report Date: August 10 </p> <p>• Cause: Lightning </p> <p>RONEY FIRE (3,575 acres) </p> <p>• Location: McKenzie River Ranger District, within the Three Sisters Wilderness </p> <p>• Report Date: August 10 </p> <p>• Cause: Lightning SEPARATION FIRE (18,086 acres) </p> <p>• Location: McKenzie River Ranger District, within the Three Sisters Wilderness </p> <p>• Report Date: August 10 </p> <p>• Cause: Lightning </p> <p>NASH FIRE (6,747 acres) </p> <p>• Location: Willamette National Forest, McKenzie River Ranger District, within the Three Sisters Wilderness Area </p> <p>• Report Date: August 10 </p> <p>• Cause: Lightning REBEL FIRE (8,709 acres)</p><p style="">• Location: Willamette National Forest, McKenzie River Ranger District, within the Three Sisters Wilderness Area</p><p style="">• Report Date: August 4</p><p>• Cause: Under Investigation Potato FIRE (199 acres)</p><p style="">• Location: Willamette National Forest, Detroit Ranger District, within the Santiam Recreation Area</p><p style="">• Report Date: August 29</p><p style="">• Cause: Under Investigation </p> <p style="margin: 0in 0in 0pt; line-height: normal;"> All Willamette National Forest Fires: <a href="https://inciweb.nwcg.gov/unit/3860/">inciweb.nwcg.gov/unit/3860/</a> </p> <p>Willamette National Forest Closure Information (Roads, Campgrounds, Trails) <a href="https://www.fs.usda.gov/detail/willamette/fire/?cid=fseprd552029" target="_blank">https://www.fs.usda.gov/detail/willamette/fire/?cid=fseprd552029</a></p> <p style="margin: 0in 0in 0pt; line-height: normal;"> </p> <p style="margin: 0in 0in 0pt; line-height: normal;"> Travel Information </p> <p style="margin: 0in 0in 0pt; line-height: normal;"> <a href="https://inciweb.nwcg.gov/incident/5580/tripcheck.com" style="" target="_self">tripcheck.com</a> or call 511 </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5523/">View Horse Creek Complex Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-122.01388888889</longitude>
+<latitude>44.093888888889</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-122.01388888889,44.093888888889,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Potato Hill Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-121.91666666667</longitude>
+<latitude>44.425555555556</latitude>
+</LookAt>
+<Placemark>
+<name>Potato Hill Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 09 Oct 2017 15:17:14
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>This site will no longer be updated unless there is significant activity.For information contact the McKenzie River Ranger District, Monday through Friday, 8:00 a.m. - 4:30 p.m., at (541) 822-3381 <p></p><p> </p><p style="margin: 0in 0in 0pt; line-height: normal;">POTATO HILL FIRE (199 acres)</p><p> </p><p style="margin: 0in 0in 0pt; line-height: normal;">• Location: McKenzie Ranger District, west of FSR 2690 and south of Highway 20</p><p> </p><p style="margin: 0in 0in 0pt; line-height: normal;">• Cause: unknown</p><p style="margin: 0in 0in 0pt; line-height: normal;"> </p><p style="margin: 0in 0in 0pt; line-height: normal;"></p><p style="margin: 0in 0in 0pt; line-height: normal;"></p><p> </p><p style="margin: 0in 0in 0pt; line-height: normal;"> </p><p> </p><p style="margin: 0in 0in 0pt; line-height: normal;"></p><p style="margin: 0in 0in 0pt; line-height: normal;">All Willamette National Forest Fires: <a href="https://inciweb.nwcg.gov/unit/3860/">inciweb.nwcg.gov/unit/3860/</a></p><p style="margin: 0in 0in 0pt; line-height: normal;"> Forest Closure Information (Roads, Campgrounds, Trails)<a href="http://www.fs.usda.gov/alerts/willamette/alerts-notices" target="_self">www.fs.usda.gov/alerts/willamette/alerts-notices</a></p><p style="margin: 0in 0in 0pt; line-height: normal;"></p><p style="margin: 0in 0in 0pt; line-height: normal;"> Travel Information</p><p style="margin: 0in 0in 0pt; line-height: normal;"><a href="tripcheck.com" target="_self">tripcheck.com</a> or call 511</p><p> </p><p style="margin: 0in 0in 8pt; line-height: 115%;"> </p><p> </p></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5565/">View Potato Hill Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-121.91666666667</longitude>
+<latitude>44.425555555556</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-121.91666666667,44.425555555556,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Nash Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-121.87777777778</longitude>
+<latitude>44.068333333333</latitude>
+</LookAt>
+<Placemark>
+<name>Nash Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 09 Oct 2017 15:15:53
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p> </p><p> </p><p style="font-size: 11.008px;">This site will no longer be updated unless there is significant activity.For information contact the McKenzie River Ranger District, Monday through Friday, 8:00 a.m. - 4:30 p.m., at (541) 822-3381</p><p style="margin: 0in 0in 0pt; font-size: 11.008px;
+]]>
+<![CDATA[
+line-height: normal;">All Willamette National Forest Fires: <a href="https://inciweb.nwcg.gov/unit/3860/">inciweb.nwcg.gov/unit/3860/</a></p><p></p><p style="font-size: 11.008px;">Forest Closure Information (Roads, Campgrounds, Trails) <a href="http://www.fs.usda.gov/alerts/willamette/alerts-notices" target="_self">www.fs.usda.gov/alerts/willamette/alerts-notices</a> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5580/">View Nash Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-121.87777777778</longitude>
+<latitude>44.068333333333</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-121.87777777778,44.068333333333,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Rebel Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-122.17027777778</longitude>
+<latitude>44.009166666667</latitude>
+</LookAt>
+<Placemark>
+<name>Rebel Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 09 Oct 2017 15:10:29
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p>This site will no longer be updated unless there is significant activity.For information contact the McKenzie River Ranger District, Monday through Friday, 8:00 a.m. - 4:30 p.m., at (541) 822-3381</p> <p style="margin: 0in 0in 0pt; line-height: normal;"> All Willamette National Forest Fires: <a href="https://inciweb.nwcg.gov/unit/3860/">inciweb.nwcg.gov/unit/3860/</a> </p> <p>Forest Closure Information (Roads, Campgrounds, Trails) <a href="http://www.fs.usda.gov/alerts/willamette/alerts-notices" target="_self">www.fs.usda.gov/alerts/willamette/alerts-notices</a></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5473/">View Rebel Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-122.17027777778</longitude>
+<latitude>44.009166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-122.17027777778,44.009166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Kelsey Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-122.24083333333</longitude>
+<latitude>43.7325</latitude>
+</LookAt>
+<Placemark>
+<name>Kelsey Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 02 Oct 2017 19:13:28
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>The Kelsey Fire was reported on September 9, 2017 after a passing storm producing lightning and strong winds. The fire is on the Middle Fork Ranger District of the Willamette National Forest. The fire is burning northeast of McCredie Hot Springs, approximately 10 miles east of the town of Oakridge, Oregon. </p><p>Northwest Incident Management Team 7 will transition command of the Jones & Kelsey Fire to a local type 3 incident management team on Saturday, September 30 at 8 p.m. </p><p style=""></p><p style="margin-bottom: 0in;"> </p> <p style="margin-bottom: 0in;"> All Willamette National Forest Fires: <a href="https://inciweb.nwcg.gov/unit/3860/" style="">https://inciweb.nwcg.gov/unit/3860/</a> </p> <p style="margin-bottom: 0in;"> </p> <p style="margin-bottom: 0in;"> Forest Closure Information (Roads, Campgrounds, Trails): <a href="https://www.fs.usda.gov/alerts/willamette/alerts-notices">https://www.fs.usda.gov/alerts/willamette/alerts-notices</a> </p> <p style="margin-bottom: 0in;"> </p> <p style="margin-bottom: 0in;">Travel Information: <a href="https://www.tripcheck.com/Pages/RCMap.asp#" style="font-size: large;">https://www.tripcheck.com/Pages/RCMap.asp#</a> or call 511</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5619/">View Kelsey Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-122.24083333333</longitude>
+<latitude>43.7325</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-122.24083333333,43.7325,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Whitewater Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-121.85611111111</longitude>
+<latitude>44.707777777778</latitude>
+</LookAt>
+<Placemark>
+<name>Whitewater Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 27 Sep 2017 20:20:47
+</p>
+<p>Incident is 53% contained.</p>
+<![CDATA[
+On Wednesday, September 27, the local Type 3 Team will spend most of the day shadowing with outgoing NW Team 11. The Incident Command Post for the new Type 3 Team will be relocated to the Detroit Lake State Park on Highway 22. The Type 3 Team will continue to focus on suppression repair efforts, preparing the fire areas for the coming winter months. Please remember that although the teams will be transitioning, there will still be crews continuing to work along Highway 22 and on Forest Service Road 46. Please drive safely and watch for fire traffic in and around the communities. Hunters should be aware that firefighters will continue to work in the area of the fires and several areas remain closed to the public. Closure areas remain in place until further notice and can be found at - <a href="https://fs.usda.gov/alerts/willamette/alerts-notices">https://fs.usda.gov/alerts/willamette/alerts-notices</a>. Once firefighters complete suppression activities and repair work this fall, some closures will be opened. The following trails and roads will definitely remain closed until spring to allow for hazard tree removal and public safety. Trails:Cheat Creek #3441Triangulation Peak #3373 Pacific Crest Trail from intersection of Whitewater Trail #3429 to intersection of Hunts Creek #3440Whitewater #3429Woodpecker #3442Roads:Whitewater Rd. #2243 beyond the junction with FDR #440FDR #440 for its entire length from beginning at the intersection with Whitewater Rd. #2243Woodpecker Rd. #040 beyond the junction with FDR #044 Road closure in the Scorpion Fire area – FDR #812 for its entire length from the beginning at the intersection with FDR #4698 It is important that the public stay informed. Be sure to check for forest closures at: <a href="https://fs.usda.gov/alerts/willamette/alerts-notices">https://fs.usda.gov/alerts/willamette/alerts-notices</a>. It is strongly advised the public take basic safety measures by staying clear of the burn area once suppression activities are completed. Many hazards may exist. Trees may have lost stability due to fire damage. Any tree that have been weakened by fire may be a hazard. Winds are normally responsible for toppling weakened trees. The wind patterns in your area may have changed as a result of the loss of adjacent tree cover. Please warn your family and neighbors this winter to keep clear of the burn areas. Evacuation Levels: Forest Service Road 46 is open to all through traffic. All evacuation levels have been lifted. For additional information, contact the Marion County Sheriff’s Office, (503) 588-5108, or visit the ‘Alerts and Emergency’ tab on <a href="http://www.co.marion.or.us/alerts" style="font-size: 11.008px;">http://www.co.marion.or.us/alerts</a>.
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5420/">View Whitewater Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-121.85611111111</longitude>
+<latitude>44.707777777778</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-121.85611111111,44.707777777778,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>
+2017 Central Washington BAER Burned Area Emergency Response
+</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-120.31027777778</longitude>
+<latitude>47.423333333333</latitude>
+</LookAt>
+<Placemark>
+<name>
+2017 Central Washington BAER Burned Area Emergency Response Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Sun, 15 Oct 2017 11:08:08
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p><a href="https://www.fs.fed.us/biology/watershed/burnareas/index.html" target="_self">Burned Area Emergency Response</a> (BAER) teams arrived in Washington to begin burned area surveys of the wildfires that recently burned more than 230,000 acres on federal lands on the Okanogan-Wenatchee Nationa
+]]>
+<![CDATA[
+l Forest. The BAER teams will be responsible for surveying federal lands on the Diamond Creek, Uno Peak, Jack Creek, Jolly Mountain and Norse Peak Fires for imminent post-fire threats to human life, safety, property and critical natural or cultural resources. BAER team surveys are rapid assessments of the burned areas that evaluate imminent post-fire conditions of burned watersheds and determine the potential for increased post-fire flooding, debris flows, and rock slides and other potential threats to values at risk. BAER teams consist of scientists and specialists including hydrologists, geologists, soil scientists, road engineers, botanists, wildlife and fisheries biologists, archeologists, recreation specialists and geographic information specialists, from federal and state agencies. BAER teams work together during the burned area surveys, field data analysis and modeling phase, to present findings along with recommended BAER treatments on federal lands. BAER teams analyze the data they collect during the surveys, to produce a “Soil Burn Severity” map. This is the first step in assessing potential watershed impacts from wildfires to any downstream values that may be at-risk from potential increased flooding, sedimentation, debris flows, and rock slides. BAER teams produce a report that includes a description of the assessment and findings for the burned area’s post-fire conditions along with recommended emergency treatments and actions. BAER emergency response efforts are focused on the protection of human life, safety and property, as well as critical cultural and natural resource values such as the water quality of lakes, rivers, and streams. BAER reports are also shared with interagency cooperators who work with private home and land owners downstream to prepare for potential post-fire flooding and sediment flow impacts. SPECIAL NOTE: Everyone near and downstream from the burned areas should remain alert and stay updated on weather conditions that may result in heavy rains over the burn scars. Flash flooding may occur quickly during heavy rain events. Current weather and emergency notifications can be found at the <a href="http://www.weather.gov/" target="_self">National Weather Service</a> website. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5633/">
+View 2017 Central Washington BAER Burned Area Emergency Response web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-120.31027777778</longitude>
+<latitude>47.423333333333</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-120.31027777778,47.423333333333,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>
+Kern River Ranger District Prescribed RX Prescribed Fire
+</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-118.55916666667</longitude>
+<latitude>35.707222222222</latitude>
+</LookAt>
+<Placemark>
+<name>
+Kern River Ranger District Prescribed RX Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 06 Dec 2017 10:15:24
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p> </p><p style="margin: 6pt 0in 12pt;"> Kernville, Ca….November 2017: Hazardous Fuels Reduction projects are scheduled this winter on three mountaintops within the Kern River Ranger District on the Sequoia National Forest. </p><p style="margin: 6pt 0in 12pt;"> The Kern Plateau Project: - Crews have completed 6 acres of brush piles within Troy Meadow Campground, the Blackrock Work Center, and Sherman Pass & Boone Roads.</p><p style="margin: 6pt 0in 12pt;">ICE Prescribed Projects (Alta Sierra/Greenhorn): The Kern River Ranger District is planning on initiating the ICE Prescribed project on Wednesday, Nov. 29, 2017. This project consists of both broadcast and pile burning. The first broadcast project is located south of Shirley Peak and Cook's Peak down to the Shirley Loop Road. The second broadcast project is off the Windy Gap Road near the Forest Service Greenhorn Summit Station. Pile Burns: Are located along the Shirley Loop Road and consist of log and slash.Fire managers are working closely with the Eastern Kern Air Pollution Control District to manage smoke production and reduce any local impacts.Forest Service crews have been working in the areas preparing fire lines and cutting ladder fuels to prepare for burning this fall. Prep work is necessary to ensure the project work is accomplished safely and to provide control measures. Multiple engines, fire crews and a water tender are assigned to these projects. </p> <p style="margin: 6pt 0in;"></p> <p style="margin: 6pt 0in;">Prescribed burn efforts will continue throughout the winter as weather, air quality and available resources permit. </p> <p style="margin: 6pt 0in;"></p> <p align="center" style="margin: 6pt 0in; text-align: center;">####</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5663/">
+View Kern River Ranger District Prescribed RX Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-118.55916666667</longitude>
+<latitude>35.707222222222</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-118.55916666667,35.707222222222,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>
+KNF-GRCA North Zone Fire Rx 2017-2018 Prescribed Fire
+</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-112.1625</longitude>
+<latitude>36.34</latitude>
+</LookAt>
+<Placemark>
+<name>
+KNF-GRCA North Zone Fire Rx 2017-2018 Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 05 Dec 2017 12:53:43
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p> </p><p style="margin: 6pt 0in;">Fredonia, Ariz., Nov. 29, 2017 — For Immediate Release. North Zone Fire managers announced plans today to initiate prescribed fire operations on a small 50-acre strip of land adjacent to the campground at Jacob Lake. Weather conditions are forecasted to be within prescriptive parameters throughout the rest of the week; fire managers anticipate conducting a test fire as early as Friday.</p><p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5632/">
+View KNF-GRCA North Zone Fire Rx 2017-2018 Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-112.1625</longitude>
+<latitude>36.34</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-112.1625,36.34,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Diamond Creek Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-120.41361111111</longitude>
+<latitude>48.855277777778</latitude>
+</LookAt>
+<Placemark>
+<name>Diamond Creek Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Fri, 13 Oct 2017 15:44:22
+</p>
+<p>Incident is 90% contained.</p>
+<![CDATA[
+<p> <p style="margin: 0in 0in 0pt;">Diamond Creek Fire is declared controlled today, October 23, 2017. The Snotel weather stations at Harts Pass and Washington Pass are showing about 22-25 inches of snow with high moisture content. There may be minimal suppression repair work left to do next spring. All area and trail closures for the Diamond Creek Fire were lifted on October 20. Forest visitors are cautioned that hazards still exist in burned areas such as falling snags/dead trees which might injure people or block roads or trails, stump holes and root channels that may be burning and are hidden from sight until stepped upon, and rolling rocks and mudslides or debris flows off hillsides can occur any time but especially after rain and freeze-thaw events. Please stay current on weather forecasts, carry a saw or axe in case a tree falls across a rod or trail, and always let someone know where you are going and when you plan to return home.For information about Burned Area Emergency Response work occurring in the national forest, go to <a href="http://centralwashingtonfirerecovery.info/">http://centralwashingtonfirerecovery.info/</a> .For public safety, road closures at Yellowjacket Sno-Park and upper Eightmile Road above Copper Glance Trailhead will remain in place until the end of November. There will be large construction equipment working in the roadway, crews falling hazardous trees, and logging truck traffic will occur on these steep and narrow roads associated with timber salvage and Burned Area Emergency Response work. For information about these temporary road closures please contact the Methow Valley Ranger District office at 509-996-4003.</p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5409/">View Diamond Creek Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-120.41361111111</longitude>
+<latitude>48.855277777778</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-120.41361111111,48.855277777778,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Tom's Mill Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-93.251388888889</longitude>
+<latitude>35.558333333333</latitude>
+</LookAt>
+<Placemark>
+<name>Tom's Mill Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 29 Nov 2017 10:11:35
+</p>
+<p>Incident is 90% contained.</p>
+<![CDATA[
+<p> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;">Some roads will re-open in and around the Tom’s Mill Fire this afternoon as fire managers report the blaze to be fully contained. Firefighters estimate the current size of the fire to be approximately 2,014 acres. No further fire spread is expected. </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;">The fire is completely contained by a secure fireline. Most interior burning has completed with some heavy fuels expected to continue burning for several days. Smoke will continue to be visible as leaves continue to fall.</p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;">Road that are reopening include:</p><p style="margin: 0in 0in 0pt;"> </p><p style="font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-list: l0 level1 lfo1;">Pilot Rock Rd (Forest Service Road (FSR) 1800) between FSR 1826 and FSR 1802</p><p style="color: rgb(0, 0, 0); font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 0pt; mso-list: l0 level1 lfo1;">FS 1813.</p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;">Forest Service Roads 1826 and 93237A remain closed until further notice. Additionally, all off-highway vehicle (OHV) designated routes within the fire area remain closed until further notice. </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;">SAFETY CONCERNS </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;">Members of the public are encouraged to exercise caution when entering into the fire areas, and should be mindful of the following potential safety issues:</p><p style="margin: 0in 0in 0pt;"> </p><p style="line-height: 107%; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 8pt; mso-list: l1 level1 lfo2; mso-add-space: auto;">Some areas within the perimeter of the fire may still be burning, or very hot. As leaves continue to fall, some pockets may re-ignite.</p><p style="color: rgb(0, 0, 0); line-height: 107%; font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 8pt; mso-list: l1 level1 lfo2; mso-add-space: auto;">Trees throughout the area may be weakened due to the fire. </p><p style="color: rgb(0, 0, 0); line-height: 107%; font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 8pt; mso-list: l1 level1 lfo2; mso-add-space: auto;">Pockets of heat may be undetected on the ground, such as roots burning in stump holes. </p><p style="color: rgb(0, 0, 0); line-height: 107%; font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 8pt; mso-list: l1 level1 lfo2; mso-add-space: auto;">Firefighters will continue to monitor, and mop up throughout the fire area for the next several weeks. </p><p style="color: rgb(0, 0, 0); line-height: 107%; font-family: "Calibri",sans-serif; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0in; margin-bottom: 8pt; mso-list: l1 level1 lfo2; mso-add-space: auto;">Large fire vehicles will be on roadways.</p><p style="margin: 0in 0in 0pt;"> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5668/">View Tom's Mill Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-93.251388888889</longitude>
+<latitude>35.558333333333</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-93.251388888889,35.558333333333,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Forked Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-93.045555555556</longitude>
+<latitude>34.865277777778</latitude>
+</LookAt>
+<Placemark>
+<name>Forked Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Thu, 30 Nov 2017 08:40:29
+</p>
+<p>Incident is 80% contained.</p>
+<![CDATA[
+<p> </p><p>The Forked Fire grew minimally yesterday and is currently at 954 acres and 80% contained. The fire has caused the temporary closure of the Flatside Wilderness and the portion of the Ouachita Trail that goes through the Wilderness.</p><p></p><p align="center" style="text-align: center;"></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5667/">View Forked Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-93.045555555556</longitude>
+<latitude>34.865277777778</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-93.045555555556,34.865277777778,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>South Fork Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.59833333333</longitude>
+<latitude>37.5375</latitude>
+</LookAt>
+<Placemark>
+<name>South Fork Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 27 Nov 2017 22:20:01
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p> <p style="vertical-align: bottom;">Fire remains quiet near the community of Wawona on the west and south flank of the fire. Sections of the north flank and the entire east flank are continuing to burn in the wilderness. Fire activity has been minimal this week.</p> <p style="vertical-align: bottom;"> </p> <p style="vertical-align: bottom;">There still may be some burning well interior and visible smoke with increased winds. The fire will be monitored by aircraft and fire lookouts. As fire burns into the high country wilderness it will burn actively through pockets of dense vegetation but will then slow down as it progresses into sparse vegetation and natural granite barriers limiting smoke production. This high country wilderness area has minimal values at risk. </p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5502/">View South Fork Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.59833333333</longitude>
+<latitude>37.5375</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.59833333333,37.5375,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Empire Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.61833333333</longitude>
+<latitude>37.644444444444</latitude>
+</LookAt>
+<Placemark>
+<name>Empire Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 27 Nov 2017 22:16:07
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>Due to a very dry air mass over Yosemite during mid October, fire activity has increased on the NE portion of the Empire fire. Active fire and smoke can be seen from Glacier Point Road. Additional smoke production combined with stable air mass will impact Yosemite Valley during the early morning hours. Normal daytime heating will help clear smoke impacts starting around noon each day.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5475/">View Empire Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.61833333333</longitude>
+<latitude>37.644444444444</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.61833333333,37.644444444444,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Summit Complex Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.78194444444</longitude>
+<latitude>38.328888888889</latitude>
+</LookAt>
+<Placemark>
+<name>Summit Complex Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 21 Nov 2017 17:04:11
+</p>
+<p>Incident is 80% contained.</p>
+<![CDATA[
+<p>The Summit Complex consists of four fires burning 5,205 acres on the Summit Ranger District. The McCormick Fire (4,332 acres) is located north of Fence Creek Road and Clark Fork Road. The Bummers Fire (462 acres) is located near Bummers Flat and FS road 6N05. The Douglas Fire (311 acres) is located south of Douglas Picnic Area and Hwy 108. The Willow Fire (100 acres, includes a meadow and natural barriers, actual acres burned is 35) is located west of Groundhog Meadow and bound by Hammill Canyon Loop Rd. The Bummers fire is the only active fire.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5546/">View Summit Complex Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.78194444444</longitude>
+<latitude>38.328888888889</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.78194444444,38.328888888889,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Creek Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.94111111111</longitude>
+<latitude>38.12</latitude>
+</LookAt>
+<Placemark>
+<name>Creek Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 21 Nov 2017 15:13:22
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>The Creek Fire is located in the Clear Lake/Bourland Mountain Area on the Mi-Wok Ranger District, Stanislaus National Forest. The fire is in a remote area with no structures threatened. The Creek fire is burning to the south and west of the Mountain Complex which burned in 2003. Indirect suppression strategy allows for minimal resource needs due to the use of natural barriers for line location. This strategy will require burn operations that will result in some smoke impacts to the surrounding areas. A Smoke Management Plan has been submitted and is in place. The forest will stay in contact with the local air district about any concerns.</p><p>The Creek Fire has not received any precipitation in the last week. A cooling trend is forecast for early next week, with possible precipitation around November 3. The fire is exhibiting minimal creeping, smoldering, and backing behavior. </p><p align="LEFT"></p><p>A soft closure is in place for the Creek Fire at the intersections of Forest Roads 3N17 at the intersection of 3N29/3N17, and for the Rock Creek Trail (19E12). Please watch for signs. </p><p></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5596/">View Creek Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.94111111111</longitude>
+<latitude>38.12</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.94111111111,38.12,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Red Feather Prescribed Burn Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-105.57555555556</longitude>
+<latitude>40.852222222222</latitude>
+</LookAt>
+<Placemark>
+<name>
+Red Feather Prescribed Burn Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 24 Oct 2017 12:49:27
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p style="line-height:normal; margin-bottom:6.0pt; text-autospace: none;"> Fire managers on the Canyon Lakes Ranger District of the Roosevelt National Forest are monitoring conditions to conduct prescribed fire operations at the Red Feather Prescribed burn, starting as soon as next week. </p> <p>·
+]]>
+<![CDATA[
+Red Feather Prescribed Burn: Located north of Red Feather Lakes; east of the Crystal Lakes Subdivision. </p> <p>o Last spring 1,513 acres of the total 4,348-acre project was successfully burned. </p> <p>o The two burn units targeted are 707 acres and 2,027 acres. </p> <p>o Detailed information: <a href="https://inciweb.nwcg.gov/incident/5027/">https://inciweb.nwcg.gov/incident/5027/</a></p> <p style="line-height:normal; margin-bottom:6.0pt; text-autospace: none;"> Appropriate conditions must be met before ignition of prescribed burns can take place. Fire managers are carefully monitoring these conditions, including a favorable weather forecast (temperature, wind, precipitation, etc.), fuel moisture, smoke dispersal and staffing. Weather is monitored throughout the burn and burning will be halted if conditions fall outside of the required conditions. </p> <p style="line-height:normal; margin-bottom:6.0pt; text-autospace: none;"> In ideal conditions, as many as 500 acres could be burned in one day on either of these burns. The goal of the burns is to reduce hazardous fuels and improve wildlife habitat. Work has already taken place within this project areas to help ensure the burn stays within its identified perimeter. </p> <p style="line-height:normal; margin-bottom:6.0pt; text-autospace: none;"> The Forest Service notifies local cooperators about these activities before and throughout implementation, as well as the interested public. Prescribed fire smoke may affect your health. For more information see <a href="https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health">https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health</a>. To check the latest updates on when this burn will occur, check our recorded incident information line at 970-498-1030 or follow us on Twitter @usfsclrd. To get added to the email notification list, send an email to <a href="mailto:rcloudman@fs.fed.us">rcloudman@fs.fed.us</a>. </p> <p style="line-height:normal; margin-bottom:6.0pt; text-autospace: none;"> If you have specific questions related to this prescribed burn, please contact Reghan Cloudman at 970-295-6770. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5027/">
+View Red Feather Prescribed Burn Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-105.57555555556</longitude>
+<latitude>40.852222222222</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-105.57555555556,40.852222222222,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>
+Pioneer Burned Area Emergency Response Burned Area Emergency Response
+</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-115.76194444444</longitude>
+<latitude>43.950277777778</latitude>
+</LookAt>
+<Placemark>
+<name>
+Pioneer Burned Area Emergency Response Burned Area Emergency Response Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 20 Nov 2017 13:17:14
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p style="margin: 0in 0in 0pt; line-height: normal;">Boise National Forest Completes Monumental Burned Area Emergency Response (BAER) efforts</p><p></p><p style="margin: 0in 0in 0pt; line-height: normal;">Two teams of BAER specialists worked diligently through August and September 2016 completing tw
+]]>
+<![CDATA[
+o assessments within 189,032 acres of the Pioneer Wildfire. The teams identified emergency response actions to reduce imminent unacceptable risk to human life and safety, property, and critical natural and cultural resources on National Forest System lands due to post fire events. The evaluation of burned areas for post fire changes in watershed conditions identified potential threats such as flooding, debris flows, soil erosion and other hazards.</p><p></p><p style="margin: 0in 0in 0pt; line-height: normal;">Most of the authorized BAER treatments were implemented in the fall of 2016 including: 900 acres of aerial mulching, 300 miles of road drainage reconstruction, and upsizing more than 60 culverts providing increased water flows. Close to 100 miles of recreation trails have been treated with water bars and tread shaping and hazard trees have been removed at 15 developed recreation sites.</p><p></p><p style="margin: 0in 0in 0pt; line-height: normal;">Approximately 150 warning signs have been posted on roads, trails and at recreation sites warning Forest visitors of the threats that exist within the burned area. Implementation was completed for the season, the remaining work will continue in the spring 2017 as weather conditions become favorable.</p><p></p><p style="margin: 0in 0in 0pt; line-height: normal;">The Boise NF appreciates the support of over 60 BAER specialists from multiple forests within Regions 1 through 6 in completing the assessments and implementation efforts.<a href="https://www.fs.usda.gov/detailfull/r4/news-events/mediatools/?cid=fseprd530057&width=full"> (READ MORE)</a></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5052/">
+View Pioneer Burned Area Emergency Response Burned Area Emergency Response web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-115.76194444444</longitude>
+<latitude>43.950277777778</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-115.76194444444,43.950277777778,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Boise Misc. Fires - Boulder Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-115.75333333333</longitude>
+<latitude>43.859444444444</latitude>
+</LookAt>
+<Placemark>
+<name>
+Boise Misc. Fires - Boulder Fire Wildfire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 20 Nov 2017 13:17:08
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p> </p><p> </p><p> </p><p style="margin: 0in 0in 0pt;"></p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 0in 0pt;"> </p><p style="margin: 0in 29pt 10pt 45pt;">9-4-2017 Boulder Fire Update</p><p style="margin: 0in 29pt 10pt 45pt;"></p><p style="margin: 0in 29pt 10pt 45pt;">The lightni
+]]>
+<![CDATA[
+ng caused Boulder Fire was ignited on Wednesday afternoon, and located 4 miles northeast of Idaho City. With retardant applications, water bucket drops and the support of two crews, the fire was contained on 9-2-2017 and controlled on 9-4-2017.Firefighters will monitor for any smokes within the interior of the Fire.Off road vehicles users should use caution National Forest System roads 357 and 329 near the burned area.</p><p style="margin: 0in 29pt 10pt 45pt;">If you have further questions, you may call the Idaho City Ranger District Office at 208-392-6681.</p><p style="margin: 0in 0in 0pt;"> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/4836/">
+View Boise Misc. Fires - Boulder Fire Wildfire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-115.75333333333</longitude>
+<latitude>43.859444444444</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-115.75333333333,43.859444444444,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Bearskin Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-115.52722222222</longitude>
+<latitude>44.388333333333</latitude>
+</LookAt>
+<Placemark>
+<name>Bearskin Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 20 Nov 2017 13:16:44
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>Acres: 30,251 Acres Containment: 10-2-2017 - (100 percent of the 29 percent). Controlled: 10-11-2017Personnel: 25 Resources assigned: 1 crews, 1 engine Type 4 Incident Management Team</p><p> </p><p style="margin: 0in 0in 12pt 9.35pt;">The 29 percent of the line to be contained was completed on 10
+]]>
+<![CDATA[
+-2-2017. </p><p style="margin: 0in 0in 12pt 9.35pt;">Most work on the Bearskin Fire was completed by the end of shift Saturday, September 16. A second National Incident Management Organization (NIMO) Team was managing the fire since September 11. On Monday, September 18, the local unit resumed management of the fire.A small workforce of 1 crew and 1 engine will remain in the area for monitoring operations until the fire is in contained and controled status.One engine will patrol along County Road 579 on the west side of the fire. The east side of the fire is quiet and also in patrol status. 3-6 inches of snow and rain fell in the fire area during the week of September 18-22. Smoke may linger for weeks, and even flare up, as interior hot spots ignite in warmer days. </p><p style="margin: 0in 0in 12pt 9.35pt;">All the suppression repair work has been completed. Suppression repair work restores areas on the landscape that have been damaged by the work of equipment and crews fighting the fire. Firefighters returned truckloads of equipment used on the fire including pumps and hoses, to the local district. </p><p style="margin: 0in 0in 12pt 9.35pt;">For Forest Closure Orders and maps visit: <a href="https://www.fs.usda.gov/alerts/boise/alerts-notices">https://www.fs.usda.gov/alerts/boise/alerts-notices</a> Scroll down to Lowman Ranger District Closures: 9-22-2017 - Bearskin Area Closure Reduced – Version #5 </p><p> </p><p style="margin: 2.55pt 0in 12pt 9.35pt;">Stage 1 fire restrictions were lifted effective 12:01 a.m. Sept. 17. To view the order <a href="https://www.fs.usda.gov/alerts/boise/alerts-notices">https://www.fs.usda.gov/alerts/boise/alerts-notices</a>. </p><p> </p><p style="margin: 2.55pt 0in 12pt 9.35pt;">Follow us on Facebook at: <a href="https://www.facebook.com/US-Forest-Service-Boise-National-Forest-1449890585280097/?ref=hl">U.S. Forest Service - Boise National Forest</a> or: <a href="https://www.facebook.com/US-Forest-Service-Boise-National-Forest-1449890585280097/?ref=hl">https://www.facebook.com/US-Forest-Service-Boise-National-Forest-1449890585280097/?ref=hl</a></p><p> </p><p style="margin: 0.35pt 0in 0pt;"> </p><p> </p><p align="center" style="margin: 2.8pt 3.5pt 0pt 9pt; text-align: center; line-height: 107%; text-indent: -1.7pt;">###</p><p> </p><p> </p><p> </p><p> </p><p align="left" style="margin: 0in 37.45pt 0pt 45.35pt; line-height: normal; text-indent: -0.7pt;"> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5536/">View Bearskin Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-115.52722222222</longitude>
+<latitude>44.388333333333</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-115.52722222222,44.388333333333,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Chris Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.45666666667</longitude>
+<latitude>38.401666666667</latitude>
+</LookAt>
+<Placemark>
+<name>Chris Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Fri, 17 Nov 2017 16:10:03
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>Chris Fire is on the Humboldt-Toiyabe National Forest’s Bridgeport Ranger District west of US Highway 395 about five miles north of Sonora Junction, near Chris Flat Campground. It is now 100% contained and in patrol status. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5659/">View Chris Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.45666666667</longitude>
+<latitude>38.401666666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.45666666667,38.401666666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Gibralter Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-114.85722222222</longitude>
+<latitude>48.857222222222</latitude>
+</LookAt>
+<Placemark>
+<name>Gibralter Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 13 Nov 2017 10:26:04
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p align="LEFT"></p> <p>Fire Information Line: 406-272-2082 &middot; Estimated acres – No IR </p> <p>Location: Caribou Fire located 21 miles northwest of Eureka, MT Current Size: &middot;24,753 Total Acres </p> <p>Cause: Lightning Containment: 75% Personnel: 75 United States: &middot;21,992 Canada: &middot;2,761 </p> <p>Email: CaribouFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5539/ </p> <p>Location: Gibraltar Ridge Fire located seven miles east of Eureka, MT Current Size: &middot;12,938 Acres </p> <p>Cause: Lightning Containment: 40% Personnel: 3 </p> <p>Email: GibralterRidgeFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5474/ </p> <p>Location: Weasel Fire located 17 miles northeast of Eureka, MT Current Size: &middot;3,925 Acres </p> <p>Cause: Lightning Containment: 0% Personnel: 0 </p> <p>Email: GibralterRidgeFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5605/ </p> <p>Forest firefighters battled the Gibralter Ridge Fire and Caribou Fire for six weeks. Both conflagrations were lightning caused and grew to 12,938 acres and 24,753 acres, respectively, before being contained on Sept. 20 when cooler temperatures and soaking rains arrived. Fires of this magnitude consist of constructing many miles of hand lines and dozer lines. These fire suppression tactics proved to be a successful method of fighting fires, but the repercussions can cause environmental stress on the landscape and rehabilitating efforts must begin right away. Fire crews and contractors had the arduous task of rehabilitating the terrain to its natural habitat; both fires had numerous restoration accomplishments over the last two-weeks. </p> <p>Gibralter Ridge Fire Rehabilitation Accomplishments: Felling fire-damaged trees along roads and fire perimeter; rebuilt or repaired 20-miles of aggregate roads, eight-miles of asphalt roads and six-miles of native surf roads; 10-miles of dozer lines; five-miles of hand lines. One and a half acres of a dozer built safety zone and seeding miles of burnt out acres and contingency lines. </p> <p>Caribou Fire Rehabilitation Accomplishments: Felling hazard trees along roads and fire perimeter; rebuilding or repairing 175-miles of native surf roads, 34-miles of aggregate roads and eight-miles of asphalt roads; 35-miles of dozer lines; six-miles of fuel breaks; five-miles of hand lines; one-mile of fence lines and seeding miles of burnt out acres and contingency lines. </p> <p>The Weasel Fire was a lightning start; fire activity is minimal, and monitoring the fire will continue. </p> <p>Fire Closures: Weasel Lake cabin is not available for public use, building enclosed with fire protection wrap. All trailheads and hiking trails within the Caribou Fire, Gibralter Fire and Weasel Fire areas closed to public use. It is important to stay off these trails due to falling fire-damaged trees and large rolling debris. </p> <p>VanBroeke’s Type 3 Management Team is transferring the fires over to Eureka Ranger District on Tuesday. This will be the last updates on these fires. For further information contact Fire Prevention Officer, Cody White; Eureka Ranger District; office cell: 406-291-4512; email: cwhite02@fs.fed.us </p> <p>Weekly updates posted every Friday on Facebook. The last update posted on inciWeb will be Friday, Oct. 6, 2017. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5474/">View Gibralter Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-114.85722222222</longitude>
+<latitude>48.857222222222</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-114.85722222222,48.857222222222,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Weasel Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-114.72972222222</longitude>
+<latitude>48.954166666667</latitude>
+</LookAt>
+<Placemark>
+<name>Weasel Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 13 Nov 2017 10:17:14
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p align="LEFT"></p> <p>Fire Information Line: 406-272-2082 &middot; Estimated acres – No IR </p> <p>Location: Caribou Fire located 21 miles northwest of Eureka, MT Current Size: &middot;24,753 Total Acres </p> <p>Cause: Lightning Containment: 75% Personnel: 75 United States: &middot;21,992 Canada: &middot;2,761 </p> <p>Email: CaribouFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5539/ </p> <p>Location: Gibraltar Ridge Fire located seven miles east of Eureka, MT Current Size: &middot;12,938 Acres </p> <p>Cause: Lightning Containment: 40% Personnel: 3 </p> <p>Email: GibralterRidgeFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5474/ </p> <p>Location: Weasel Fire located 17 miles northeast of Eureka, MT Current Size: &middot;3,925 Acres </p> <p>Cause: Lightning Containment: 0% Personnel: 0 </p> <p>Email: GibralterRidgeFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5605/ </p> <p>Forest firefighters battled the Gibralter Ridge Fire and Caribou Fire for six weeks. Both conflagrations were lightning caused and grew to 12,938 acres and 24,753 acres, respectively, before being contained on Sept. 20 when cooler temperatures and soaking rains arrived. Fires of this magnitude consist of constructing many miles of hand lines and dozer lines. These fire suppression tactics proved to be a successful method of fighting fires, but the repercussions can cause environmental stress on the landscape and rehabilitating efforts must begin right away. Fire crews and contractors had the arduous task of rehabilitating the terrain to its natural habitat; both fires had numerous restoration accomplishments over the last two-weeks. </p> <p>Gibralter Ridge Fire Rehabilitation Accomplishments: Felling fire-damaged trees along roads and fire perimeter; rebuilt or repaired 20-miles of aggregate roads, eight-miles of asphalt roads and six-miles of native surf roads; 10-miles of dozer lines; five-miles of hand lines. One and a half acres of a dozer built safety zone and seeding miles of burnt out acres and contingency lines. </p> <p>Caribou Fire Rehabilitation Accomplishments: Felling hazard trees along roads and fire perimeter; rebuilding or repairing 175-miles of native surf roads, 34-miles of aggregate roads and eight-miles of asphalt roads; 35-miles of dozer lines; six-miles of fuel breaks; five-miles of hand lines; one-mile of fence lines and seeding miles of burnt out acres and contingency lines. </p> <p>The Weasel Fire was a lightning start; fire activity is minimal, and monitoring the fire will continue. </p> <p>Fire Closures: Weasel Lake cabin is not available for public use, building enclosed with fire protection wrap. All trailheads and hiking trails within the Caribou Fire, Gibralter Fire and Weasel Fire areas closed to public use. It is important to stay off these trails due to falling fire-damaged trees and large rolling debris. </p> <p>VanBroeke’s Type 3 Management Team is transferring the fires over to Eureka Ranger District on Tuesday. This will be the last updates on these fires. For further information contact Fire Prevention Officer, Cody White; Eureka Ranger District; office cell: 406-291-4512; email: cwhite02@fs.fed.us </p> <p>Weekly updates posted every Friday on Facebook. The last update posted on inciWeb will be Friday, Oct. 6, 2017. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5605/">View Weasel Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-114.72972222222</longitude>
+<latitude>48.954166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-114.72972222222,48.954166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Caribou Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-115.44111111111</longitude>
+<latitude>48.973055555556</latitude>
+</LookAt>
+<Placemark>
+<name>Caribou Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 13 Nov 2017 10:16:11
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p align="LEFT"></p> <p>Fire Information Line: 406-272-2082 &middot; Estimated acres – No IR </p> <p>Location: Caribou Fire located 21 miles northwest of Eureka, MT Current Size: &middot;24,753 Total Acres </p> <p>Cause: Lightning Containment: 75% Personnel: 75 United States: &middot;21,992 Canada: &middot;2,761 </p> <p>Email: CaribouFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5539/ </p> <p>Location: Gibraltar Ridge Fire located seven miles east of Eureka, MT Current Size: &middot;12,938 Acres </p> <p>Cause: Lightning Containment: 40% Personnel: 3 </p> <p>Email: GibralterRidgeFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5474/ </p> <p>Location: Weasel Fire located 17 miles northeast of Eureka, MT Current Size: &middot;3,925 Acres </p> <p>Cause: Lightning Containment: 0% Personnel: 0 </p> <p>Email: GibralterRidgeFire2017@gmail.com Inciweb: https://inciweb.nwcg.gov/incident/5605/ </p> <p>Forest firefighters battled the Gibralter Ridge Fire and Caribou Fire for six weeks. Both conflagrations were lightning caused and grew to 12,938 acres and 24,753 acres, respectively, before being contained on Sept. 20 when cooler temperatures and soaking rains arrived. Fires of this magnitude consist of constructing many miles of hand lines and dozer lines. These fire suppression tactics proved to be a successful method of fighting fires, but the repercussions can cause environmental stress on the landscape and rehabilitating efforts must begin right away. Fire crews and contractors had the arduous task of rehabilitating the terrain to its natural habitat; both fires had numerous restoration accomplishments over the last two-weeks. </p> <p>Gibralter Ridge Fire Rehabilitation Accomplishments: Felling fire-damaged trees along roads and fire perimeter; rebuilt or repaired 20-miles of aggregate roads, eight-miles of asphalt roads and six-miles of native surf roads; 10-miles of dozer lines; five-miles of hand lines. One and a half acres of a dozer built safety zone and seeding miles of burnt out acres and contingency lines. </p> <p>Caribou Fire Rehabilitation Accomplishments: Felling hazard trees along roads and fire perimeter; rebuilding or repairing 175-miles of native surf roads, 34-miles of aggregate roads and eight-miles of asphalt roads; 35-miles of dozer lines; six-miles of fuel breaks; five-miles of hand lines; one-mile of fence lines and seeding miles of burnt out acres and contingency lines. </p> <p>The Weasel Fire was a lightning start; fire activity is minimal, and monitoring the fire will continue. </p> <p>Fire Closures: Weasel Lake cabin is not available for public use, building enclosed with fire protection wrap. All trailheads and hiking trails within the Caribou Fire, Gibralter Fire and Weasel Fire areas closed to public use. It is important to stay off these trails due to falling fire-damaged trees and large rolling debris. </p> <p>VanBroeke’s Type 3 Management Team is transferring the fires over to Eureka Ranger District on Tuesday. This will be the last updates on these fires. For further information contact Fire Prevention Officer, Cody White; Eureka Ranger District; office cell: 406-291-4512; email: cwhite02@fs.fed.us </p> <p>Weekly updates posted every Friday on Facebook. The last update posted on inciWeb will be Friday, Oct. 6, 2017. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5539/">View Caribou Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-115.44111111111</longitude>
+<latitude>48.973055555556</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-115.44111111111,48.973055555556,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Miller Complex Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-123.21777777778</longitude>
+<latitude>42.039166666667</latitude>
+</LookAt>
+<Placemark>
+<name>Miller Complex Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Thu, 09 Nov 2017 14:14:06
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>On August 14, a series of lightning storms moved through the area, igniting 25 wildfires. Today, more than 70 days and many firefighters later, the fire has received rain and snow, and fire behavior is reduced to smoldering. Hopefully, seasonal weather will prevail for the rest of autumn and into winter. The remaining mission of the current team is primarily equipment removal and suppression repair while keeping an eye on the fire. The information below will be updated periodically. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5514/">View Miller Complex Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-123.21777777778</longitude>
+<latitude>42.039166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-123.21777777778,42.039166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Tank Hollow Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-111.31583333333</longitude>
+<latitude>39.994166666667</latitude>
+</LookAt>
+<Placemark>
+<name>Tank Hollow Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 08 Nov 2017 10:36:11
+</p>
+<p>Incident is 95% contained.</p>
+<![CDATA[
+<p>The Tank Hollow fire is burning in the Sheep Creek drainage on the Spanish Fork Ranger District of the Uinta-Wasatch-Cache National Forest. This lightning-caused fire started on August 11th. </p><p>Fire managers, along with personnel from the U.S Forest Service, State of Utah Department of Natural Resources, Utah Division of Forestry, Fire, and State Lands, and the Bureau of Land Management, are assigned to the fire. The fire is being suppressed to protect critical watershed and transmission lines. </p><p>Forest Service Unicorn Campground, Forest Service road #042 and Forest Service road #043 are now open for public access. The following roads and trails remain closed due to the potential of mud slides and snags or dead standing trees that could fall throughout these areas which pose a public safety risk: Forest Service roads (Forest Service road #032), (Forest Service road #761) (Tie Fork road, Forest Service road #725) and Upper Tie Fork Single Track Trail (Forest Service trail #023). This includes all pedestrian, equestrian, bicycle and any type of motorized vehicle.
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5542/">View Tank Hollow Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-111.31583333333</longitude>
+<latitude>39.994166666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-111.31583333333,39.994166666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Chetco Bar Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-123.95361111111</longitude>
+<latitude>42.296666666667</latitude>
+</LookAt>
+<Placemark>
+<name>Chetco Bar Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Sat, 04 Nov 2017 19:58:17
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+As of 10/20/17 this page will no longer be updated. A final daily update was produced and posted on 10/20. If significant events occur then a press release will be created and posted on the Rogue River - Siskiyou National Forest FaceBook and Twitter pages. When closure order changes occur the information will be posted to the Forest website as well as social media. </p><p style="font-size: 11.008px;">For the 10/20 update click the "News" link above.</p><p style="font-size: 11.008px;">On October 18th, the Chetco Bar Fire transitioned from a Type 3 to a Type 4 organization. The Incident Command Post (ICP) remains at the Rogue River-Siskiyou National Forest, Gold Beach Ranger District office.</p><p style="font-size: 11.008px;">Pacific Northwest Type 1 Team 2 transferred command of the Chetco Bar Fire to a Type 3 organization on October 6th at 8 p.m. The Type 3 organization established the ICP at the Ranger District office. The previous ICP on Shopping Center Avenue and the camp located on the south end of Brookings is closed. Closures: An area closure remains in effect for portions of the Rogue River - Siskiyou National Forest. This closure includes the Japanese bomb site. For public and firefighter safety please abide by all closure orders and signage. For more information regarding the closures, please visit the Forests' websites at <a href="http://tinyurl.com/ClosureOrder">http://tinyurl.com/ClosureOrder</a> and <a href="https://www.fs.usda.gov/srnf">https://www.fs.usda.gov/srnf</a>.</p><p style="font-size: 11.008px;">Safety:Please be mindful of crews in transit and slow-moving heavy equipment on the roads. Drive cautiously with headlights on at all times when firefighters and equipment are in the area. Motorists may notice an increase in traffic on forest roads, as it is deer hunting rifle season.BAER Team:A Burned Area Emergency Response (BAER) Team assessed post-fire impacts and compiled a report for the Rogue Rive - Siskiyou National Forest. The team was comprised of US Forest Service, National Park Service, and National Oceanic and Atmospheric Administration employees. These specialists conducted field surveys, used science-based models to rapidly assess watersheds, inventoried resources at risk and gauged the need for emergency measures and treatments on National Forest lands. The goal is to minimize threats to life or property and to stabilize and prevent unacceptable degradation to natural and cultural resources resulting from fire effects. For more details check the Inciweb page, Chetco Bar Post Fire -BAER.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5385/">View Chetco Bar Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-123.95361111111</longitude>
+<latitude>42.296666666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-123.95361111111,42.296666666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>
+Norse Peak/American Fires BAER Burned Area Emergency Response
+</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-121.37388888889</longitude>
+<latitude>46.951111111111</latitude>
+</LookAt>
+<Placemark>
+<name>
+Norse Peak/American Fires BAER Burned Area Emergency Response Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Fri, 13 Oct 2017 20:35:11
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p style="padding: 0px; margin-top: 5px; margin-bottom: 5px;"><a href="http://www.nifc.gov/BAER/Page/NIFC_BAER.html" style="padding: 0px; margin: 0px; color: rgb(153, 102, 0); text-decoration: none;">Burned Area Emergency Response</a> (BAER) teams have been established to begin burned area surveys of the wildfires that recently burned on federal lands of the Mt.Baker Snoqualmie and Okanogan Wenatchee National Forests. BAER team surveys are rapid assessments of the burned areas that evaluate post-fire conditions of the burned watersheds and determine the potential for increased post-fire flooding, sediment flows, and rock slides. </p><p style="padding: 0px; margin-top: 5px; margin-bottom: 5px; color: rgb(0, 0, 0); font-family: 'Lucida Grande', 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Helvetica, sans-serif; font-size: 14px;">BAER teams consist of scientists and specialists including hydrologists, geologists, soil scientists, road engineers, botanists, wildlife and fisheries biologists, archeologists, and geographic information specialists, from federal and state agencies. BAER teams work together during the burned area surveys, field data analysis and modeling phase, to present findings along with recommended BAER treatments to the Forest Supervisor. </p><p style="padding: 0px; margin-top: 5px; margin-bottom: 5px; color: rgb(0, 0, 0); font-family: 'Lucida Grande', 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Helvetica, sans-serif; font-size: 14px;">BAER teams analyze the data they collect during the surveys, to produce a “Soil Burn Severity” map. This is the first step in assessing potential watershed impacts from wildfires to any downstream values that may be at-risk from potential increased flooding, sedimentation, debris flows, and rock slides. BAER teams produce a report that includes a description of the assessment and findings for the burned area’s post-fire conditions along with recommended emergency stabilization measures and actions. BAER emergency stabilization efforts are focused on the protection of human life, safety and property, as well as critical cultural and natural resource values such as the water quality of lakes, rivers, and streams. </p><p style="padding: 0px; margin-top: 5px; margin-bottom: 5px; color: rgb(0, 0, 0); font-family: 'Lucida Grande', 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Helvetica, sans-serif; font-size: 14px;">BAER reports are also shared with interagency cooperators who work with downstream private home and land owners to prepare for potential post-fire flooding and sediment flow impacts. </p><p></p><p style="padding: 0px; margin: 0in 0in 0pt; color: rgb(0, 0, 0); font-family: 'Lucida Grande', 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Helvetica, sans-serif; font-size: 14px; line-height: normal;">SPECIAL NOTE: Everyone near and downstream from the burned areas should remain alert and stay updated on weather conditions that may result in heavy rains over the burn scars. Flash flooding may occur quickly during heavy rain events. Current weather and emergency notifications can be found at the National Weather Service website.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5644/">
+View Norse Peak/American Fires BAER Burned Area Emergency Response web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-121.37388888889</longitude>
+<latitude>46.951111111111</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-121.37388888889,46.951111111111,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Jolly Mountain Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-121.01861111111</longitude>
+<latitude>47.376666666667</latitude>
+</LookAt>
+<Placemark>
+<name>Jolly Mountain Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Thu, 02 Nov 2017 16:43:26
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>A lightning strike started the Jolly Mountain Fire on August 11, 2017. The fire continues to burn in the Cle Elum Ranger District of the Okanogan-Wenatchee National Forest and on or near land managed by the Washington Department of National Resources and The Nature Conservancy. The fire is being managed for full suppression although fire managers anticipate that it will continue to burn until a season-ending precipitation event occurs in the region.As of September 20th, new updates will occur only as needed due to significantly decreased fire activity.</p><p></p><p></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5496/">View Jolly Mountain Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-121.01861111111</longitude>
+<latitude>47.376666666667</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-121.01861111111,47.376666666667,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Parker Strip Pile Burn Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-114.22</longitude>
+<latitude>34.218888888889</latitude>
+</LookAt>
+<Placemark>
+<name>Parker Strip Pile Burn Prescribed Fire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Wed, 01 Nov 2017 11:36:46
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p>09:00 - Test ignitions were successful and fire resources have ignited the piles. The Bureau of Land Management (BLM) Yuma Field Office plans to conduct a prescribed burn near Parker, Arizona. The area is 1/2 mile west of Parker Dam Road in the area of Bowmans Wash Road. The area is on the California side of the Colorado River. <p>Burning is expected to be completed in two days and is being conducted to eliminate slash piles created during maintenance of the Imperial Dam Long Term Visitor Area. Removal of invasive vegetation in this area helps to reduce the threat of wildfire and provides safe access for firefighters and first responders in cases of emergency. Vegetation removal also improves the health of the riparian ecosystem by reducing the presence of weeds and invasive plants such as tamarisk (salt cedar).</p><p>Residents and area visitors should expect some light smoke in the area during burn operations. Impacts from the smoke should be minimal and the piles are expected to burn quickly, with smoke dissipating a short period of time. The burn is not expected to affect local traffic, and ignition will stop if smoke begins to impact roadways in the area.</p></p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5653/">
+View Parker Strip Pile Burn Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-114.22</longitude>
+<latitude>34.218888888889</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-114.22,34.218888888889,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Dinkey South Understory Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-119.13472222222</longitude>
+<latitude>37.035277777778</latitude>
+</LookAt>
+<Placemark>
+<name>
+Dinkey South Understory Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Tue, 24 Oct 2017 18:14:59
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p> <p style="margin: 0in 0in 0pt;">As of today we have 275 acres accomplished on the Dinkey South Burn. We have been in a holding pattern in regards to ignitions since October 11th. This has been as a result of a high level of suppression activities in the region, diminished Air quality and a dry air mass that has been looming over the greater burn area. We are anticipating picking back up on another project early next week as it look like we will have good conditions and opportunities to proceed.</p> </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5637/">
+View Dinkey South Understory Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-119.13472222222</longitude>
+<latitude>37.035277777778</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-119.13472222222,37.035277777778,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Ojitos Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-106.70583333333</longitude>
+<latitude>36.325</latitude>
+</LookAt>
+<Placemark>
+<name>Ojitos Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Mon, 23 Oct 2017 12:15:19
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>Fire managers on the Santa Fe National Forest (SFNF) continue to monitor the lightning-caused Ojitos Fire on the Coyote Ranger District, taking advantage of favorable windows to use low-intensity fire on the ground to achieve multiple resource benefits.</p> <p>Since July 7 when lightning struck a
+]]>
+<![CDATA[
+tree in the 90,000-acre Rio Chama block that has been cleared under the National Environmental Policy Act (NEPA) for forest restoration, fire crews have added fire to the ground on both sides of Forest Road (FR) 468 and on the west side of the fire perimeter to remove hazardous fuels and mitigate the risk of future high-intensity wildfire.</p> <p>Fire managers will continue to manage the fire for resource objectives as long as they are seeing positive results. As the fall hunting season nears, hunters are advised to check on the status of the Ojitos Fire before going into the area. The Coyote Ranger District will post information about the Ojitos Fire on message boards outside the fire perimeter to keep the public informed.</p> <p>The approximately 1,600-acre Ojitos Fire is on the boundary of the Chama River Canyon Wilderness where fire managers are using natural barriers like roads, rocky mesas and drainages to limit the fire’s spread to areas where it can meet resource objectives, which include improved forest health and habitat diversity.</p> <p>Historically, low-intensity wildfires burned through southwestern forests like the SFNF every seven to 15 years as part of a natural cycle that removed leaf litter, eradicated disease and thinned the understory, making room for new growth. Managing a lightning-caused ignition like the Ojitos Fire mimics that natural process.</p> <p>Crews are also cutting and piling woody debris along the Continental Divide Trail (CDT) off of FR 468. This segment of the CDT known locally as the Ojitos Trail (Trail 298) between NM Highway 96 and Skull Bridge is under a temporary closure order until Aug. 31.</p> <p>The first priority on all wildland fire is firefighter and public safety. The Monastery of Christ in the Desert is approximately 5 miles north of the Ojitos Fire and not at risk.</p> <p>Smoke from the Ojitos Fire may be visible from the Rio Chama, the Monastery, nearby mesas, NM Highways 84 and 96. Smoke-sensitive individuals and people with respiratory or heart disease are encouraged to take precautionary measures. Information on air quality and protecting your health can be found online at the New Mexico Department of Health’s website at <a href="https://nmtracking.org/fire">https://nmtracking.org/fire</a>.</p> <p>For additional information, contact the Coyote Ranger District at 575.638.5526.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5624/">View Ojitos Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-106.70583333333</longitude>
+<latitude>36.325</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-106.70583333333,36.325,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Pingree Hill Prescribed Burn Prescribed Fire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-105.53972222222</longitude>
+<latitude>40.670555555556</latitude>
+</LookAt>
+<Placemark>
+<name>
+Pingree Hill Prescribed Burn Prescribed Fire Information
+</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Fri, 20 Oct 2017 10:55:46
+</p>
+<p>Incident is 0% contained.</p>
+<![CDATA[
+<p style="line-height: normal; margin-bottom: 6pt; -ms-text-autospace:;">Fall 2017 Update: Firefighters successfully burned 95 acres of the Pingree Hill project Oct. 17. Conditions will continue to be monitored to determine if burning can continue this fall. </p>Pingree Hill Prescribed Burn: Located north of Highway 14, east of Rustic. Over 500 acres of this 2,027 acre burn took place between 2014 and 2016. <p style="line-height: normal; margin-bottom: 6pt; -ms-text-autospace:;">Appropriate conditions must be met before ignition of prescribed burns can take place. Fire managers are carefully monitoring these conditions, including a favorable weather forecast (temperature, wind, precipitation, etc.), fuel moisture, smoke dispersal and staffing. Weather is monitored throughout the burn and burning will be halted if conditions fall outside of the required conditions. </p> <p style="line-height: normal; margin-bottom: 6pt; -ms-text-autospace:;"> In ideal conditions, as many as 500 acres could be burned in one day. The goal of the burn is to reduce hazardous fuels and improve wildlife habitat. Work has already taken place within this project area to help ensure the burn stays within its identified perimeter. The burn will be staffed appropriately with up to 30 firefighters, often including local agencies and volunteer fire departments. </p> <p style="line-height: normal; margin-bottom: 6pt; -ms-text-autospace:;"> Prescribed fire smoke may affect your health. For more information see <a href="https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health">https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health</a>. To check the latest updates on when this burn will occur, check our recorded incident information line at 970-498-1030 or follow us on Twitter @usfsclrd. To get added to the email notification list, send an email to <a href="mailto:rcloudman@fs.fed.us">rcloudman@fs.fed.us</a>. </p> <p style="line-height: normal; margin-bottom: 6pt; -ms-text-autospace:;"> If you have specific questions related to this prescribed burn, please contact Reghan Cloudman at 970-295-6770. </p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/4727/">
+View Pingree Hill Prescribed Burn Prescribed Fire web site
+</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-105.53972222222</longitude>
+<latitude>40.670555555556</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-105.53972222222,40.670555555556,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder class="parent_folder">
+<name>Rice Ridge Fire Wildfire</name>
+<LookAt>
+<range>10000</range>
+<tilt>40</tilt>
+<longitude>-113.48527777778</longitude>
+<latitude>47.268055555556</latitude>
+</LookAt>
+<Placemark>
+<name>Rice Ridge Fire Wildfire Information</name>
+<description>
+<p>
+<strong>Last updated:</strong>
+Fri, 20 Oct 2017 10:59:10
+</p>
+<p>Incident is 100% contained.</p>
+<![CDATA[
+<p>October 20, 2017 The Rice Ridge Fire is 100 percent contained and fire line repair work by heavy equipment has been completed. Road grading on Forest Service Road #477 (Cottonwood Lakes Road) and Forest Service Road #89 has also been completed. Other post-fire work may continue as needed but suppression repair work has been completed for the season. Questions related to the fire should be directed to the Seeley Lake Ranger District at 406 677-2233.</p>
+]]>
+<p>
+<a href="https://inciweb.nwcg.gov/incident/5414/">View Rice Ridge Fire Wildfire web site</a>
+</p>
+<p>
+<strong>NOTE:</strong>
+All fire perimeters and points are approximations.
+</p>
+</description>
+<LookAt>
+<longitude>-113.48527777778</longitude>
+<latitude>47.268055555556</latitude>
+<range>10000</range>
+<tilt>40</tilt>
+</LookAt>
+<styleUrl>#m_ylw-pushpin_copy1</styleUrl>
+<Point>
+<coordinates>-113.48527777778,47.268055555556,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<ScreenOverlay>
+<Icon>
+<href>https://inciweb.nwcg.gov/images/banners/google.png</href>
+</Icon>
+<name>InciWeb Banner</name>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

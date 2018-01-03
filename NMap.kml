@@ -1,0 +1,3108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>NixleMap</name>
+		<Style id='Style2-polygon-1'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f9999ea</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-1-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f9999ea</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Beat 3&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1149/"&lt;/a&gt; 
+
+&lt;/tr&gt;
+
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>Beat 3</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1149/"> 
+
+</a></td></tr>
+
+
+</table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1154" target="_blank">https://local.nixle.com/signup/widget/g/1154</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>3</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1154</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.752926,42.640801,0.0 -73.75359,42.640997,0.0 -73.754663,42.641291,0.0 -73.755341,42.641474,0.0 -73.756785,42.641862,0.0 -73.757625,42.641954,0.0 -73.75816,42.641969,0.0 -73.759231,42.642287,0.0 -73.758771,42.642958,0.0 -73.759547,42.643157,0.0 -73.760606,42.643711,0.0 -73.76196,42.644504,0.0 -73.762443,42.643117,0.0 -73.763046,42.643276,0.0 -73.765348,42.643878,0.0 -73.765576,42.643369,0.0 -73.765832,42.642887,0.0 -73.766035,42.642474,0.0 -73.766998,42.640599,0.0 -73.76726,42.640282,0.0 -73.767643,42.63909,0.0 -73.767832,42.638366,0.0 -73.768967,42.634516,0.0 -73.766865,42.634194,0.0 -73.765792,42.634027,0.0 -73.763598,42.633665,0.0 -73.763327,42.633687,0.0 -73.762169,42.634314,0.0 -73.760872,42.635,0.0 -73.759049,42.635992,0.0 -73.758405,42.636324,0.0 -73.756905,42.637129,0.0 -73.755955,42.637635,0.0 -73.754963,42.638241,0.0 -73.754676,42.638441,0.0 -73.753945,42.638996,0.0 -73.753546,42.639432,0.0 -73.753152,42.63998,0.0 -73.752926,42.640801,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0099ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-2-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0099ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 1&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1143" &lt;/a&gt;
+
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 1</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1143">
+
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1143" target="_blank">https://local.nixle.com/signup/widget/g/1143</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>1</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1143</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.750031,42.654244,0.0 -73.750563,42.65456,0.0 -73.751018,42.653923,0.0 -73.751218,42.653622,0.0 -73.751621,42.652998,0.0 -73.751986,42.652445,0.0 -73.752652,42.652619,0.0 -73.753637,42.652932,0.0 -73.753883,42.652729,0.0 -73.75465,42.652093,0.0 -73.755092,42.651665,0.0 -73.755539,42.651135,0.0 -73.75631,42.650367,0.0 -73.756782,42.649896,0.0 -73.757013,42.649736,0.0 -73.757572,42.649612,0.0 -73.757994,42.649479,0.0 -73.758262,42.649231,0.0 -73.758317,42.648937,0.0 -73.758311,42.648483,0.0 -73.758438,42.648262,0.0 -73.759135,42.647578,0.0 -73.758043,42.646851,0.0 -73.757614,42.647266,0.0 -73.757257,42.647632,0.0 -73.755851,42.646962,0.0 -73.756202,42.64668,0.0 -73.754558,42.646242,0.0 -73.754627,42.646086,0.0 -73.75434,42.645704,0.0 -73.753284,42.645507,0.0 -73.750718,42.644972,0.0 -73.747594,42.643761,0.0 -73.747489,42.644008,0.0 -73.746783,42.645705,0.0 -73.746051,42.647296,0.0 -73.744511,42.649879,0.0 -73.743366,42.651623,0.0 -73.74706,42.653094,0.0 -73.748853,42.653821,0.0 -73.749313,42.653905,0.0 -73.749594,42.654012,0.0 -73.750031,42.654244,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f9ccbf9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f9ccbf9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 2&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1166"&lt;/a&gt; 
+&lt;/tr&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 2</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1166"> 
+</a></td></tr>
+
+</table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1166" target="_blank">https://local.nixle.com/signup/widget/g/1166</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>2</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1166</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.752752,42.645356,0.0 -73.753516,42.645553,0.0 -73.75434,42.645704,0.0 -73.754627,42.646086,0.0 -73.754558,42.646242,0.0 -73.756202,42.64668,0.0 -73.755851,42.646962,0.0 -73.757257,42.647632,0.0 -73.757614,42.647266,0.0 -73.758043,42.646851,0.0 -73.759135,42.647578,0.0 -73.759398,42.64731,0.0 -73.759901,42.646827,0.0 -73.760545,42.646214,0.0 -73.760878,42.645893,0.0 -73.761202,42.64557,0.0 -73.761547,42.645258,0.0 -73.761959,42.645486,0.0 -73.762451,42.645758,0.0 -73.762548,42.645833,0.0 -73.762616,42.645912,0.0 -73.762689,42.646041,0.0 -73.762937,42.646417,0.0 -73.763156,42.646788,0.0 -73.763556,42.647455,0.0 -73.763713,42.647597,0.0 -73.763873,42.647679,0.0 -73.764527,42.647835,0.0 -73.76485,42.647838,0.0 -73.765217,42.647773,0.0 -73.765545,42.647688,0.0 -73.765773,42.647662,0.0 -73.765856,42.64767,0.0 -73.766032,42.647515,0.0 -73.766262,42.647244,0.0 -73.766418,42.647011,0.0 -73.766455,42.646933,0.0 -73.766547,42.646369,0.0 -73.766647,42.645911,0.0 -73.766757,42.645644,0.0 -73.767026,42.645295,0.0 -73.767315,42.645039,0.0 -73.767666,42.644504,0.0 -73.766848,42.644283,0.0 -73.765348,42.643878,0.0 -73.762443,42.643117,0.0 -73.76217,42.643864,0.0 -73.76196,42.644504,0.0 -73.760606,42.643711,0.0 -73.760121,42.64346,0.0 -73.759715,42.643235,0.0 -73.759415,42.64311,0.0 -73.758771,42.642958,0.0 -73.758915,42.642743,0.0 -73.759248,42.642258,0.0 -73.758328,42.642003,0.0 -73.75816,42.641969,0.0 -73.757625,42.641954,0.0 -73.756785,42.641862,0.0 -73.754663,42.641291,0.0 -73.75359,42.640997,0.0 -73.752926,42.640801,0.0 -73.752788,42.640876,0.0 -73.752339,42.641951,0.0 -73.75209,42.642488,0.0 -73.752036,42.64274,0.0 -73.752036,42.643213,0.0 -73.752298,42.644572,0.0 -73.752752,42.645356,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-4'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fdcd1ea</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-4-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fdcd1ea</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-4-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-4-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 4&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1139"&lt;/a&gt; 
+&lt;/tr&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 4</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1139"> 
+</a></td></tr>
+
+</table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1139" target="_blank">https://local.nixle.com/signup/widget/g/1139</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>4</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1139</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.768903,42.634505,0.0 -73.768741,42.635283,0.0 -73.768233,42.637006,0.0 -73.767643,42.63909,0.0 -73.76726,42.640282,0.0 -73.766937,42.640627,0.0 -73.766256,42.642044,0.0 -73.77093,42.641838,0.0 -73.77274,42.641697,0.0 -73.77486,42.641555,0.0 -73.775805,42.641491,0.0 -73.776918,42.641399,0.0 -73.777998,42.64131,0.0 -73.777644,42.639107,0.0 -73.77862,42.63917,0.0 -73.779609,42.639239,0.0 -73.780608,42.639317,0.0 -73.781775,42.639397,0.0 -73.782563,42.639444,0.0 -73.783127,42.639486,0.0 -73.782899,42.63811,0.0 -73.782697,42.637244,0.0 -73.782568,42.637225,0.0 -73.782318,42.63725,0.0 -73.782468,42.636623,0.0 -73.78266,42.635929,0.0 -73.782856,42.635269,0.0 -73.783032,42.634755,0.0 -73.783221,42.634381,0.0 -73.78283,42.634252,0.0 -73.7816,42.633924,0.0 -73.780676,42.633771,0.0 -73.77861,42.633442,0.0 -73.777959,42.635337,0.0 -73.777845,42.635754,0.0 -73.777761,42.635908,0.0 -73.777036,42.635797,0.0 -73.774433,42.635399,0.0 -73.770205,42.634715,0.0 -73.769422,42.634589,0.0 -73.768903,42.634505,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-5'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fe9d2d9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-5-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fe9d2d9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-5-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-5</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-5-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 5&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1138"&lt;/a&gt; 
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 5</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1138"> 
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1138" target="_blank">https://local.nixle.com/signup/widget/g/1138</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>5</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1138</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.783211,42.634378,0.0 -73.782856,42.635269,0.0 -73.78266,42.635929,0.0 -73.782468,42.636623,0.0 -73.782318,42.63725,0.0 -73.782568,42.637225,0.0 -73.782697,42.637244,0.0 -73.782929,42.63829,0.0 -73.783127,42.639486,0.0 -73.781561,42.639384,0.0 -73.780785,42.639314,0.0 -73.779609,42.639239,0.0 -73.77862,42.63917,0.0 -73.777644,42.639107,0.0 -73.777998,42.64131,0.0 -73.776918,42.641399,0.0 -73.775805,42.641491,0.0 -73.77486,42.641555,0.0 -73.77093,42.641838,0.0 -73.766256,42.642044,0.0 -73.766108,42.642223,0.0 -73.765832,42.642887,0.0 -73.765576,42.643369,0.0 -73.765348,42.643878,0.0 -73.767666,42.644504,0.0 -73.770051,42.645135,0.0 -73.771193,42.64545,0.0 -73.771418,42.645582,0.0 -73.7715,42.645652,0.0 -73.771981,42.646382,0.0 -73.772669,42.647334,0.0 -73.773099,42.646977,0.0 -73.773448,42.64683,0.0 -73.773969,42.646686,0.0 -73.775308,42.646294,0.0 -73.776384,42.645988,0.0 -73.778337,42.645424,0.0 -73.779674,42.644877,0.0 -73.781576,42.644057,0.0 -73.781833,42.643965,0.0 -73.782814,42.643729,0.0 -73.783527,42.64367,0.0 -73.784205,42.643698,0.0 -73.78492,42.643847,0.0 -73.785538,42.644093,0.0 -73.786657,42.644645,0.0 -73.786778,42.644528,0.0 -73.78712,42.6442,0.0 -73.787434,42.643898,0.0 -73.789294,42.642146,0.0 -73.788358,42.64162,0.0 -73.7896,42.640342,0.0 -73.79015,42.640579,0.0 -73.790294,42.640469,0.0 -73.790567,42.64008,0.0 -73.790588,42.639987,0.0 -73.791135,42.639452,0.0 -73.791668,42.638952,0.0 -73.792219,42.6384,0.0 -73.790482,42.637552,0.0 -73.788222,42.636479,0.0 -73.784441,42.634785,0.0 -73.783211,42.634378,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-6'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7ff3e2cf</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-6-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7ff3e2cf</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-6-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-6</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-6-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 6&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1146"&lt;/a&gt; 
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 6</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1146"> 
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1146" target="_blank">https://local.nixle.com/signup/widget/g/1146</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-6-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>6</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1146</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.765856,42.64767,0.0 -73.7655,42.648007,0.0 -73.765255,42.648239,0.0 -73.765206,42.648286,0.0 -73.764719,42.648754,0.0 -73.764281,42.64915,0.0 -73.763815,42.649574,0.0 -73.763362,42.650008,0.0 -73.763273,42.65015,0.0 -73.762625,42.650758,0.0 -73.76205,42.65132,0.0 -73.761931,42.651434,0.0 -73.761503,42.651855,0.0 -73.760503,42.652854,0.0 -73.760059,42.653294,0.0 -73.759955,42.653334,0.0 -73.759625,42.653549,0.0 -73.759273,42.653852,0.0 -73.758982,42.654273,0.0 -73.76117,42.655499,0.0 -73.763265,42.65675,0.0 -73.763749,42.656274,0.0 -73.764182,42.65585,0.0 -73.764758,42.655285,0.0 -73.765292,42.654759,0.0 -73.765785,42.654292,0.0 -73.76629,42.653813,0.0 -73.766906,42.653214,0.0 -73.767713,42.652439,0.0 -73.767765,42.65206,0.0 -73.767853,42.651894,0.0 -73.76798,42.651638,0.0 -73.768137,42.651338,0.0 -73.768311,42.650968,0.0 -73.768642,42.650248,0.0 -73.769036,42.649449,0.0 -73.767999,42.648883,0.0 -73.765856,42.64767,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-multi_geometry-7'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>7f0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fe3e0d0</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-multi_geometry-7-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>7f0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fe3e0d0</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-multi_geometry-7-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-multi_geometry-7</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-multi_geometry-7-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 7&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1144"&lt;/a&gt; 
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 7</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1144"> 
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1144" target="_blank">https://local.nixle.com/signup/widget/g/1144</a>
+</div>]]></description>
+			<styleUrl>#Style2-multi_geometry-7-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>7</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1144</value>
+				</Data>
+			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.76865,42.650252,0.0 -73.76843,42.65071,0.0 -73.768311,42.650968,0.0 -73.768137,42.651338,0.0 -73.76798,42.651638,0.0 -73.767853,42.651894,0.0 -73.767765,42.65206,0.0 -73.767713,42.652439,0.0 -73.766906,42.653214,0.0 -73.76629,42.653813,0.0 -73.765785,42.654292,0.0 -73.765292,42.654759,0.0 -73.764758,42.655285,0.0 -73.764182,42.65585,0.0 -73.763749,42.656274,0.0 -73.763265,42.65675,0.0 -73.763416,42.656766,0.0 -73.764029,42.657138,0.0 -73.764661,42.657515,0.0 -73.765392,42.657951,0.0 -73.765673,42.658116,0.0 -73.766024,42.658288,0.0 -73.766616,42.658489,0.0 -73.767104,42.658641,0.0 -73.768457,42.659061,0.0 -73.770421,42.659698,0.0 -73.771413,42.660001,0.0 -73.772466,42.660306,0.0 -73.774304,42.660907,0.0 -73.77569,42.659621,0.0 -73.775894,42.659405,0.0 -73.776313,42.659006,0.0 -73.776963,42.65842,0.0 -73.77741,42.657987,0.0 -73.777499,42.6579,0.0 -73.778022,42.657426,0.0 -73.778607,42.656889,0.0 -73.779178,42.656328,0.0 -73.779872,42.655699,0.0 -73.780544,42.655049,0.0 -73.781237,42.654394,0.0 -73.781896,42.653761,0.0 -73.78289,42.652827,0.0 -73.779995,42.652693,0.0 -73.779262,42.652643,0.0 -73.777865,42.652555,0.0 -73.777526,42.652517,0.0 -73.7772,42.652474,0.0 -73.77639,42.652437,0.0 -73.775766,42.65245,0.0 -73.775342,42.652518,0.0 -73.774765,42.652683,0.0 -73.774532,42.652801,0.0 -73.774017,42.653111,0.0 -73.773859,42.653272,0.0 -73.771758,42.652016,0.0 -73.769528,42.650751,0.0 -73.76865,42.650252,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.769036,42.649449,0.0 -73.768642,42.650248,0.0 -73.76865,42.650252,0.0 -73.769036,42.649449,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
+		<Style id='Style2-polygon-8'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fd3ead9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-8-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fd3ead9</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-8-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-8</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-8-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 8&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1115"&lt;/a&gt; 
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 8</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1115"> 
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1115" target="_blank">https://local.nixle.com/signup/widget/g/1115</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>8</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1115</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.758986,42.654276,0.0 -73.756913,42.653056,0.0 -73.755156,42.652109,0.0 -73.754792,42.652083,0.0 -73.754654,42.652096,0.0 -73.754452,42.65219,0.0 -73.75421,42.652422,0.0 -73.754046,42.65257,0.0 -73.753887,42.652732,0.0 -73.753641,42.652935,0.0 -73.753201,42.652791,0.0 -73.752656,42.652622,0.0 -73.752415,42.652553,0.0 -73.75199,42.652448,0.0 -73.751777,42.652762,0.0 -73.751625,42.653001,0.0 -73.751222,42.653625,0.0 -73.751022,42.653926,0.0 -73.750567,42.654563,0.0 -73.750035,42.654247,0.0 -73.749836,42.655472,0.0 -73.749727,42.656209,0.0 -73.7496,42.656842,0.0 -73.749511,42.657306,0.0 -73.749416,42.657815,0.0 -73.749346,42.6581,0.0 -73.749269,42.658249,0.0 -73.748767,42.658753,0.0 -73.748419,42.659114,0.0 -73.747409,42.660195,0.0 -73.747958,42.660505,0.0 -73.748356,42.660725,0.0 -73.748555,42.660848,0.0 -73.748663,42.66094,0.0 -73.748809,42.661101,0.0 -73.748868,42.661191,0.0 -73.748921,42.66132,0.0 -73.749133,42.661309,0.0 -73.749248,42.661286,0.0 -73.74953,42.661194,0.0 -73.749864,42.661044,0.0 -73.750168,42.660917,0.0 -73.750235,42.661013,0.0 -73.75044,42.661249,0.0 -73.750583,42.66137,0.0 -73.750877,42.661565,0.0 -73.751132,42.661717,0.0 -73.751304,42.661558,0.0 -73.751473,42.661388,0.0 -73.751448,42.661094,0.0 -73.75146,42.661043,0.0 -73.751496,42.661043,0.0 -73.751549,42.661056,0.0 -73.75178,42.661109,0.0 -73.751856,42.661124,0.0 -73.752092,42.661061,0.0 -73.7519,42.660937,0.0 -73.751805,42.660834,0.0 -73.751752,42.660744,0.0 -73.751736,42.660662,0.0 -73.751744,42.660605,0.0 -73.751781,42.660521,0.0 -73.751871,42.660388,0.0 -73.752082,42.660205,0.0 -73.752323,42.660016,0.0 -73.752437,42.659896,0.0 -73.752656,42.659687,0.0 -73.752903,42.659451,0.0 -73.75306,42.659311,0.0 -73.753355,42.659025,0.0 -73.753775,42.658643,0.0 -73.754183,42.658281,0.0 -73.754516,42.657959,0.0 -73.754856,42.657638,0.0 -73.755259,42.657279,0.0 -73.755675,42.657517,0.0 -73.755912,42.657266,0.0 -73.756226,42.65696,0.0 -73.756471,42.656706,0.0 -73.756631,42.656547,0.0 -73.75681,42.656379,0.0 -73.756979,42.656205,0.0 -73.757155,42.656046,0.0 -73.758129,42.655144,0.0 -73.758648,42.654644,0.0 -73.758909,42.654392,0.0 -73.758959,42.65432,0.0 -73.758986,42.654276,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-9'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fccf2ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-9-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fccf2ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-9-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-9</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-9-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 9&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1141"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 9</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1141">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1141" target="_blank">https://local.nixle.com/signup/widget/g/1141</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>9</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1141</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.756663,42.666442,0.0 -73.756534,42.666278,0.0 -73.756477,42.666163,0.0 -73.756448,42.666035,0.0 -73.756448,42.665893,0.0 -73.756482,42.665739,0.0 -73.757016,42.665249,0.0 -73.757875,42.664446,0.0 -73.7582,42.664128,0.0 -73.758509,42.663828,0.0 -73.758619,42.66368,0.0 -73.759429,42.662982,0.0 -73.760013,42.662428,0.0 -73.760298,42.662152,0.0 -73.760628,42.661819,0.0 -73.760831,42.661621,0.0 -73.761101,42.661338,0.0 -73.761566,42.660944,0.0 -73.762183,42.660409,0.0 -73.762785,42.659847,0.0 -73.762992,42.659655,0.0 -73.76334,42.659346,0.0 -73.763863,42.659008,0.0 -73.764415,42.658671,0.0 -73.765041,42.658278,0.0 -73.76466,42.657934,0.0 -73.764126,42.657481,0.0 -73.763548,42.657009,0.0 -73.763269,42.656753,0.0 -73.761174,42.655502,0.0 -73.758986,42.654276,0.0 -73.758905,42.654389,0.0 -73.758713,42.654581,0.0 -73.758129,42.655144,0.0 -73.757155,42.656046,0.0 -73.75681,42.656379,0.0 -73.756226,42.65696,0.0 -73.755675,42.657517,0.0 -73.755259,42.657279,0.0 -73.754516,42.657959,0.0 -73.754183,42.658281,0.0 -73.753775,42.658643,0.0 -73.75306,42.659311,0.0 -73.752323,42.660016,0.0 -73.751867,42.660385,0.0 -73.751846,42.66043,0.0 -73.75174,42.660602,0.0 -73.75174,42.660665,0.0 -73.751789,42.660807,0.0 -73.751805,42.660834,0.0 -73.7519,42.660937,0.0 -73.752092,42.661061,0.0 -73.751856,42.661124,0.0 -73.751496,42.661043,0.0 -73.751452,42.661064,0.0 -73.751444,42.661091,0.0 -73.751458,42.66124,0.0 -73.751473,42.661388,0.0 -73.751304,42.661558,0.0 -73.751132,42.661717,0.0 -73.751941,42.662192,0.0 -73.752189,42.662352,0.0 -73.752315,42.66246,0.0 -73.752555,42.66269,0.0 -73.752754,42.662921,0.0 -73.753468,42.663852,0.0 -73.754014,42.664565,0.0 -73.75421,42.664799,0.0 -73.754362,42.664933,0.0 -73.75465,42.665174,0.0 -73.755019,42.66543,0.0 -73.755355,42.665624,0.0 -73.755627,42.665794,0.0 -73.755881,42.66593,0.0 -73.756121,42.66607,0.0 -73.756663,42.666442,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-10'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fcde5fc</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-10-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fcde5fc</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-10-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-10</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-10-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 10&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1148"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 10</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1148">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1148" target="_blank">https://local.nixle.com/signup/widget/g/1148</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-10-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>10</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1148</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.767475,42.663457,0.0 -73.768001,42.66296,0.0 -73.768076,42.662826,0.0 -73.768174,42.662689,0.0 -73.768331,42.662582,0.0 -73.768606,42.662393,0.0 -73.768858,42.662234,0.0 -73.769066,42.662103,0.0 -73.769166,42.662039,0.0 -73.769303,42.661967,0.0 -73.767169,42.660134,0.0 -73.766608,42.659631,0.0 -73.76621,42.659285,0.0 -73.765043,42.658278,0.0 -73.764796,42.65843,0.0 -73.76463,42.658534,0.0 -73.764413,42.658668,0.0 -73.764102,42.658858,0.0 -73.763787,42.65905,0.0 -73.763555,42.659195,0.0 -73.763338,42.659343,0.0 -73.763161,42.659492,0.0 -73.762783,42.659842,0.0 -73.76255,42.66006,0.0 -73.762135,42.660444,0.0 -73.761826,42.660713,0.0 -73.761418,42.661065,0.0 -73.761103,42.661337,0.0 -73.760755,42.661691,0.0 -73.760374,42.662077,0.0 -73.76004,42.662404,0.0 -73.759703,42.66272,0.0 -73.759427,42.662977,0.0 -73.758617,42.663675,0.0 -73.758511,42.663826,0.0 -73.758254,42.66407,0.0 -73.758053,42.664265,0.0 -73.757918,42.664398,0.0 -73.757572,42.664723,0.0 -73.757099,42.665165,0.0 -73.75672,42.665515,0.0 -73.756562,42.66566,0.0 -73.75648,42.665734,0.0 -73.756446,42.665888,0.0 -73.756446,42.666032,0.0 -73.756475,42.66616,0.0 -73.756544,42.666345,0.0 -73.756968,42.666652,0.0 -73.75711,42.666753,0.0 -73.757231,42.666859,0.0 -73.757296,42.666943,0.0 -73.757326,42.666999,0.0 -73.757359,42.667064,0.0 -73.757379,42.667117,0.0 -73.757398,42.6672,0.0 -73.757413,42.667264,0.0 -73.757415,42.66738,0.0 -73.757403,42.667424,0.0 -73.757364,42.667521,0.0 -73.7573,42.667655,0.0 -73.757092,42.667868,0.0 -73.756876,42.668085,0.0 -73.756544,42.668424,0.0 -73.756288,42.668686,0.0 -73.756133,42.668841,0.0 -73.755979,42.668969,0.0 -73.755915,42.669012,0.0 -73.756027,42.669077,0.0 -73.756134,42.669139,0.0 -73.756245,42.669187,0.0 -73.756543,42.669358,0.0 -73.757064,42.669655,0.0 -73.75718,42.66972,0.0 -73.757451,42.669843,0.0 -73.759518,42.67095,0.0 -73.759994,42.670726,0.0 -73.760639,42.670415,0.0 -73.762124,42.66908,0.0 -73.763878,42.666723,0.0 -73.763481,42.666486,0.0 -73.763679,42.666296,0.0 -73.763981,42.666012,0.0 -73.764237,42.665778,0.0 -73.764976,42.665095,0.0 -73.765656,42.664428,0.0 -73.766399,42.663719,0.0 -73.766936,42.664018,0.0 -73.767475,42.663457,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-11'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fccccf4</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-11-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fccccf4</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-11-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-11</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-11-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 11&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1136"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 11</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1136">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1136" target="_blank">https://local.nixle.com/signup/widget/g/1136</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-11-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>11</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1136</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.769297,42.661958,0.0 -73.7686,42.662384,0.0 -73.768168,42.66268,0.0 -73.76807,42.662817,0.0 -73.767995,42.662951,0.0 -73.767469,42.663448,0.0 -73.76693,42.664009,0.0 -73.766393,42.66371,0.0 -73.76565,42.664419,0.0 -73.76497,42.665086,0.0 -73.764231,42.665769,0.0 -73.763853,42.666115,0.0 -73.763475,42.666477,0.0 -73.764109,42.666862,0.0 -73.76532,42.667567,0.0 -73.766194,42.668062,0.0 -73.7682,42.669215,0.0 -73.770102,42.67031,0.0 -73.771191,42.670938,0.0 -73.771472,42.670697,0.0 -73.771947,42.67025,0.0 -73.772307,42.669931,0.0 -73.77271,42.669557,0.0 -73.773342,42.668933,0.0 -73.774065,42.668189,0.0 -73.774059,42.668037,0.0 -73.774439,42.66778,0.0 -73.774636,42.667652,0.0 -73.775049,42.667394,0.0 -73.775287,42.667232,0.0 -73.77472,42.666721,0.0 -73.773329,42.665512,0.0 -73.771209,42.663679,0.0 -73.769297,42.661958,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-12'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-12-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-12-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-12</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-12-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 12&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1155"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 12</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1155">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1155" target="_blank">https://local.nixle.com/signup/widget/g/1155</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>12</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1155</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.775301,42.663686,0.0 -73.77577,42.663231,0.0 -73.775848,42.663161,0.0 -73.776241,42.662793,0.0 -73.776672,42.662395,0.0 -73.777245,42.661862,0.0 -73.776342,42.661585,0.0 -73.775234,42.661243,0.0 -73.774304,42.660904,0.0 -73.772849,42.660431,0.0 -73.772344,42.660266,0.0 -73.771662,42.660072,0.0 -73.770421,42.659695,0.0 -73.769344,42.659351,0.0 -73.768457,42.659058,0.0 -73.767519,42.65877,0.0 -73.766616,42.658489,0.0 -73.766024,42.658285,0.0 -73.765392,42.657948,0.0 -73.763416,42.656763,0.0 -73.763265,42.656747,0.0 -73.763468,42.656932,0.0 -73.763551,42.657008,0.0 -73.763735,42.657157,0.0 -73.764555,42.657835,0.0 -73.765044,42.658277,0.0 -73.766109,42.659198,0.0 -73.766705,42.659712,0.0 -73.767177,42.660136,0.0 -73.76741,42.660333,0.0 -73.768827,42.661551,0.0 -73.769308,42.661965,0.0 -73.769564,42.662197,0.0 -73.770241,42.662811,0.0 -73.770946,42.663441,0.0 -73.771215,42.663685,0.0 -73.771754,42.664148,0.0 -73.77238,42.664689,0.0 -73.773335,42.665518,0.0 -73.773459,42.665426,0.0 -73.773918,42.665006,0.0 -73.774343,42.664601,0.0 -73.774726,42.664253,0.0 -73.775301,42.663686,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-13'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fff0099</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-13-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fff0099</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-13-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-13</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-13-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 13&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1149/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 13</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1149/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1149" target="_blank">https://local.nixle.com/signup/widget/g/1149</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-13-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>13</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1149</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.785539,42.680481,0.0 -73.785598,42.680002,0.0 -73.785656,42.679753,0.0 -73.785745,42.679581,0.0 -73.785776,42.679519,0.0 -73.785835,42.679433,0.0 -73.78601,42.679259,0.0 -73.786168,42.67912,0.0 -73.786568,42.67885,0.0 -73.786834,42.678687,0.0 -73.787518,42.678269,0.0 -73.7878,42.678095,0.0 -73.787144,42.677527,0.0 -73.786049,42.676583,0.0 -73.785115,42.675781,0.0 -73.78459,42.675374,0.0 -73.783788,42.674656,0.0 -73.783558,42.674444,0.0 -73.783496,42.674387,0.0 -73.783316,42.674234,0.0 -73.783003,42.673966,0.0 -73.78267,42.673681,0.0 -73.782545,42.673575,0.0 -73.78242,42.673456,0.0 -73.782153,42.67321,0.0 -73.781805,42.672899,0.0 -73.78144,42.672574,0.0 -73.781212,42.672378,0.0 -73.780666,42.671904,0.0 -73.780262,42.671616,0.0 -73.779802,42.671116,0.0 -73.779639,42.670982,0.0 -73.779478,42.670853,0.0 -73.77917,42.670588,0.0 -73.77891,42.670365,0.0 -73.778707,42.670191,0.0 -73.778043,42.669621,0.0 -73.776984,42.668651,0.0 -73.775834,42.667689,0.0 -73.775298,42.667241,0.0 -73.775108,42.667371,0.0 -73.774947,42.66747,0.0 -73.774641,42.667652,0.0 -73.774103,42.668002,0.0 -73.774078,42.668041,0.0 -73.774072,42.668118,0.0 -73.77407,42.668189,0.0 -73.773353,42.668942,0.0 -73.772715,42.669557,0.0 -73.771958,42.670259,0.0 -73.771482,42.670693,0.0 -73.771204,42.670948,0.0 -73.771202,42.670947,0.0 -73.770305,42.671255,0.0 -73.769598,42.6715,0.0 -73.768811,42.671823,0.0 -73.767501,42.672494,0.0 -73.766921,42.672754,0.0 -73.76645,42.672925,0.0 -73.765925,42.673191,0.0 -73.765505,42.673361,0.0 -73.765371,42.673649,0.0 -73.765584,42.673742,0.0 -73.765597,42.673798,0.0 -73.766344,42.673962,0.0 -73.767433,42.674201,0.0 -73.768821,42.674505,0.0 -73.770519,42.674877,0.0 -73.770862,42.674914,0.0 -73.771272,42.674955,0.0 -73.771614,42.675029,0.0 -73.771965,42.675099,0.0 -73.772229,42.675166,0.0 -73.773005,42.675363,0.0 -73.77347,42.675493,0.0 -73.774238,42.675717,0.0 -73.774797,42.675873,0.0 -73.774965,42.675953,0.0 -73.774709,42.676247,0.0 -73.774481,42.676505,0.0 -73.774006,42.677047,0.0 -73.774002,42.67708,0.0 -73.774016,42.677138,0.0 -73.774084,42.677237,0.0 -73.774181,42.677299,0.0 -73.77437,42.677388,0.0 -73.775554,42.677951,0.0 -73.777114,42.678693,0.0 -73.778911,42.679553,0.0 -73.779233,42.679703,0.0 -73.779785,42.679971,0.0 -73.779828,42.679971,0.0 -73.780078,42.679653,0.0 -73.780173,42.679537,0.0 -73.78032,42.67936,0.0 -73.780465,42.679188,0.0 -73.780803,42.67876,0.0 -73.781218,42.678931,0.0 -73.781464,42.679043,0.0 -73.781875,42.679231,0.0 -73.78243,42.679485,0.0 -73.782661,42.67959,0.0 -73.782909,42.679707,0.0 -73.783579,42.680025,0.0 -73.783778,42.680109,0.0 -73.783961,42.680179,0.0 -73.784291,42.680269,0.0 -73.784831,42.680369,0.0 -73.785104,42.680413,0.0 -73.785539,42.680481,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-14'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fff00ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-14-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fff00ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-14-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-14</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-14-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 14&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1140"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 14</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1140">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1140" target="_blank">https://local.nixle.com/signup/widget/g/1140</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-14-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>14</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1140</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.7753,42.663691,0.0 -73.774725,42.664258,0.0 -73.774342,42.664606,0.0 -73.773917,42.665011,0.0 -73.773339,42.665524,0.0 -73.775126,42.667072,0.0 -73.775297,42.667244,0.0 -73.776983,42.668654,0.0 -73.778042,42.669624,0.0 -73.779638,42.670985,0.0 -73.780266,42.671619,0.0 -73.780895,42.672099,0.0 -73.782272,42.673321,0.0 -73.783496,42.674392,0.0 -73.784589,42.675377,0.0 -73.785114,42.675784,0.0 -73.785633,42.675477,0.0 -73.786579,42.674575,0.0 -73.787309,42.674987,0.0 -73.787803,42.675276,0.0 -73.789012,42.674166,0.0 -73.789472,42.674433,0.0 -73.790585,42.673403,0.0 -73.790615,42.67334,0.0 -73.790621,42.673207,0.0 -73.790528,42.672889,0.0 -73.790575,42.67286,0.0 -73.790803,42.672649,0.0 -73.790362,42.672396,0.0 -73.789088,42.67168,0.0 -73.788148,42.671132,0.0 -73.787501,42.670752,0.0 -73.785961,42.669875,0.0 -73.784324,42.668903,0.0 -73.783119,42.668205,0.0 -73.78191,42.667504,0.0 -73.779586,42.666167,0.0 -73.777424,42.664934,0.0 -73.7753,42.663691,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-15'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-15-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-15-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-15</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-15-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 15&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1137"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 15</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1137">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1137" target="_blank">https://local.nixle.com/signup/widget/g/1137</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-15-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>15</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1137</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.789561,42.656764,0.0 -73.787411,42.65553,0.0 -73.786383,42.6549,0.0 -73.785796,42.654563,0.0 -73.785306,42.654283,0.0 -73.784349,42.653697,0.0 -73.783959,42.65348,0.0 -73.783447,42.653195,0.0 -73.783091,42.652997,0.0 -73.782887,42.652825,0.0 -73.782647,42.65305,0.0 -73.782086,42.653578,0.0 -73.781674,42.653969,0.0 -73.781188,42.654435,0.0 -73.78077,42.65483,0.0 -73.780541,42.655047,0.0 -73.780062,42.65551,0.0 -73.77953,42.656004,0.0 -73.779175,42.656326,0.0 -73.778901,42.656596,0.0 -73.778604,42.656887,0.0 -73.778309,42.657158,0.0 -73.777871,42.657558,0.0 -73.777627,42.65778,0.0 -73.777461,42.657933,0.0 -73.776988,42.658391,0.0 -73.776349,42.658969,0.0 -73.776191,42.659118,0.0 -73.775891,42.659403,0.0 -73.775716,42.659588,0.0 -73.775201,42.66007,0.0 -73.774932,42.66032,0.0 -73.774547,42.660677,0.0 -73.774301,42.660905,0.0 -73.775231,42.661244,0.0 -73.77599,42.661476,0.0 -73.776523,42.66164,0.0 -73.777242,42.66186,0.0 -73.776154,42.662877,0.0 -73.775556,42.663437,0.0 -73.775296,42.663688,0.0 -73.777478,42.664964,0.0 -73.779582,42.666164,0.0 -73.780582,42.665215,0.0 -73.781488,42.664384,0.0 -73.782423,42.663505,0.0 -73.782689,42.663244,0.0 -73.783074,42.662887,0.0 -73.783589,42.662404,0.0 -73.784178,42.661847,0.0 -73.784776,42.66128,0.0 -73.785361,42.660726,0.0 -73.785945,42.66018,0.0 -73.786611,42.659538,0.0 -73.787292,42.658908,0.0 -73.787996,42.658267,0.0 -73.788699,42.657582,0.0 -73.789561,42.656764,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-16'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fffff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-16-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fffff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-16-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-16</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-16-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 17&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1145"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 17</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1145">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1145" target="_blank">https://local.nixle.com/signup/widget/g/1145</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-16-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>17</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1145</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.78289,42.652827,0.0 -73.786386,42.654902,0.0 -73.787414,42.655532,0.0 -73.789564,42.656766,0.0 -73.790419,42.657416,0.0 -73.79168,42.658289,0.0 -73.793032,42.658941,0.0 -73.794525,42.659326,0.0 -73.793721,42.660047,0.0 -73.794241,42.660099,0.0 -73.794805,42.660341,0.0 -73.795712,42.660662,0.0 -73.797303,42.661536,0.0 -73.798671,42.66235,0.0 -73.799983,42.663077,0.0 -73.800754,42.662345,0.0 -73.801313,42.661676,0.0 -73.801743,42.661114,0.0 -73.801983,42.660785,0.0 -73.80242,42.660128,0.0 -73.802894,42.659297,0.0 -73.803594,42.658117,0.0 -73.804027,42.657521,0.0 -73.804147,42.65744,0.0 -73.804791,42.656557,0.0 -73.805418,42.65571,0.0 -73.806105,42.654759,0.0 -73.806495,42.653899,0.0 -73.804987,42.653204,0.0 -73.803589,42.652609,0.0 -73.80282,42.652369,0.0 -73.801965,42.651967,0.0 -73.800917,42.651467,0.0 -73.799965,42.65099,0.0 -73.799004,42.650533,0.0 -73.797983,42.650046,0.0 -73.796941,42.649541,0.0 -73.796736,42.649438,0.0 -73.79581,42.648987,0.0 -73.79537,42.648782,0.0 -73.794247,42.64827,0.0 -73.79309,42.647726,0.0 -73.7924,42.6474,0.0 -73.792015,42.647221,0.0 -73.791389,42.646912,0.0 -73.790982,42.6467,0.0 -73.789892,42.646206,0.0 -73.788805,42.645702,0.0 -73.78801,42.645306,0.0 -73.787209,42.6449,0.0 -73.786786,42.644716,0.0 -73.785725,42.645791,0.0 -73.785467,42.648423,0.0 -73.785249,42.650488,0.0 -73.784991,42.65295,0.0 -73.78289,42.652827,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-17'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-17-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f00ff00</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-17-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-17</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-17-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 16&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1147/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 16</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1147/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1147" target="_blank">https://local.nixle.com/signup/widget/g/1147</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-17-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>16</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1147</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.797304,42.661537,0.0 -73.797303,42.661536,0.0 -73.795712,42.660662,0.0 -73.795354,42.660513,0.0 -73.794726,42.660308,0.0 -73.794132,42.660071,0.0 -73.793721,42.660047,0.0 -73.794525,42.659326,0.0 -73.7933,42.659035,0.0 -73.792202,42.658567,0.0 -73.79168,42.658289,0.0 -73.790419,42.657416,0.0 -73.789564,42.656766,0.0 -73.788699,42.657582,0.0 -73.787996,42.658267,0.0 -73.787292,42.658908,0.0 -73.786611,42.659538,0.0 -73.785945,42.66018,0.0 -73.785361,42.660726,0.0 -73.784776,42.66128,0.0 -73.784157,42.661867,0.0 -73.783368,42.662614,0.0 -73.782689,42.663244,0.0 -73.782423,42.663505,0.0 -73.780582,42.665215,0.0 -73.779582,42.666164,0.0 -73.781906,42.667501,0.0 -73.78432,42.6689,0.0 -73.787497,42.670749,0.0 -73.7901,42.668352,0.0 -73.792061,42.666509,0.0 -73.792062,42.666509,0.0 -73.797304,42.661537,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-18'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fff0000</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-18-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fff0000</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-18-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-18</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-18-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 18&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1135/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 18</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1135/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1135" target="_blank">https://local.nixle.com/signup/widget/g/1135</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-18-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>18</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1135</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.735204,42.676792,0.0 -73.743121,42.679311,0.0 -73.743369,42.678436,0.0 -73.743584,42.677688,0.0 -73.743737,42.677112,0.0 -73.743934,42.676394,0.0 -73.744047,42.675981,0.0 -73.744128,42.675686,0.0 -73.744324,42.67497,0.0 -73.74457,42.67407,0.0 -73.744697,42.673605,0.0 -73.745005,42.672481,0.0 -73.74506,42.672279,0.0 -73.745404,42.671092,0.0 -73.745447,42.671054,0.0 -73.745582,42.670997,0.0 -73.745485,42.670876,0.0 -73.745399,42.670732,0.0 -73.745291,42.670474,0.0 -73.745202,42.670198,0.0 -73.745151,42.670078,0.0 -73.745096,42.669948,0.0 -73.745037,42.669755,0.0 -73.74494,42.66942,0.0 -73.744937,42.669402,0.0 -73.743895,42.669095,0.0 -73.743163,42.668861,0.0 -73.742362,42.668607,0.0 -73.741698,42.668384,0.0 -73.740663,42.668037,0.0 -73.74033,42.668555,0.0 -73.740185,42.668775,0.0 -73.739915,42.669232,0.0 -73.73965,42.669679,0.0 -73.739277,42.6703,0.0 -73.738873,42.6709,0.0 -73.736979,42.670299,0.0 -73.736621,42.670882,0.0 -73.736254,42.671494,0.0 -73.735544,42.672672,0.0 -73.737379,42.673307,0.0 -73.736383,42.674918,0.0 -73.735852,42.675771,0.0 -73.735578,42.676205,0.0 -73.735444,42.676416,0.0 -73.735204,42.676792,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-19'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f99e5ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-19-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f99e5ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-19-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-19</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-19-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 19&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1142/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 19</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1142/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1142" target="_blank">https://local.nixle.com/signup/widget/g/1142</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-19-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>19</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1142</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.750037,42.65424,0.0 -73.749319,42.6539,0.0 -73.748859,42.653816,0.0 -73.743373,42.651618,0.0 -73.740615,42.655793,0.0 -73.731457,42.66296,0.0 -73.728936,42.664985,0.0 -73.725892,42.668675,0.0 -73.724383,42.67075,0.0 -73.723309,42.67288,0.0 -73.73521,42.676787,0.0 -73.736272,42.675104,0.0 -73.737385,42.673303,0.0 -73.73555,42.672667,0.0 -73.73626,42.671489,0.0 -73.736985,42.670295,0.0 -73.738879,42.670896,0.0 -73.739459,42.67001,0.0 -73.740669,42.668033,0.0 -73.744946,42.669416,0.0 -73.745102,42.669943,0.0 -73.745358,42.670631,0.0 -73.745491,42.670872,0.0 -73.745588,42.670993,0.0 -73.74541,42.671087,0.0 -73.74519,42.671848,0.0 -73.74456,42.674125,0.0 -73.74431,42.675037,0.0 -73.743743,42.677108,0.0 -73.745527,42.676725,0.0 -73.746305,42.676553,0.0 -73.74673,42.676395,0.0 -73.747298,42.67604,0.0 -73.748119,42.675374,0.0 -73.748562,42.675006,0.0 -73.749049,42.674586,0.0 -73.750471,42.67349,0.0 -73.751443,42.672674,0.0 -73.751785,42.67238,0.0 -73.752955,42.6714,0.0 -73.753897,42.670635,0.0 -73.75502,42.669746,0.0 -73.755921,42.669012,0.0 -73.756133,42.668841,0.0 -73.756661,42.668305,0.0 -73.757291,42.667651,0.0 -73.757395,42.667466,0.0 -73.757419,42.667376,0.0 -73.757383,42.667117,0.0 -73.757328,42.667,0.0 -73.757246,42.666864,0.0 -73.756548,42.666341,0.0 -73.755535,42.665731,0.0 -73.755021,42.665427,0.0 -73.754652,42.665171,0.0 -73.754364,42.664926,0.0 -73.754212,42.664796,0.0 -73.752756,42.662914,0.0 -73.752557,42.662687,0.0 -73.752191,42.662345,0.0 -73.751465,42.661904,0.0 -73.750728,42.661473,0.0 -73.750442,42.661246,0.0 -73.75017,42.66091,0.0 -73.74941,42.661232,0.0 -73.749135,42.661306,0.0 -73.748923,42.661313,0.0 -73.748811,42.661098,0.0 -73.748557,42.66084,0.0 -73.747411,42.660188,0.0 -73.749271,42.658241,0.0 -73.749348,42.658097,0.0 -73.749459,42.65759,0.0 -73.749733,42.656209,0.0 -73.750037,42.65424,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-20'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fa8d7b6</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-20-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fa8d7b6</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-20-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-20</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-20-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 20&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1156/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 20</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1156/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1156" target="_blank">https://local.nixle.com/signup/widget/g/1156</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-20-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>20</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1156</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.743104,42.679361,0.0 -73.76021,42.684843,0.0 -73.759042,42.682192,0.0 -73.758748,42.681642,0.0 -73.761351,42.680958,0.0 -73.760886,42.680389,0.0 -73.765286,42.676457,0.0 -73.770718,42.67902,0.0 -73.768719,42.681075,0.0 -73.772734,42.683121,0.0 -73.778092,42.685688,0.0 -73.778853,42.683073,0.0 -73.779319,42.683203,0.0 -73.779937,42.681836,0.0 -73.782151,42.683024,0.0 -73.782823,42.683232,0.0 -73.782503,42.683981,0.0 -73.783592,42.684483,0.0 -73.785527,42.680481,0.0 -73.784863,42.680376,0.0 -73.784279,42.680269,0.0 -73.783949,42.680178,0.0 -73.783743,42.680097,0.0 -73.783567,42.680021,0.0 -73.783097,42.6798,0.0 -73.782608,42.679568,0.0 -73.782105,42.679337,0.0 -73.781861,42.679235,0.0 -73.781272,42.678957,0.0 -73.781084,42.678876,0.0 -73.780793,42.678757,0.0 -73.780556,42.679052,0.0 -73.780339,42.679322,0.0 -73.780125,42.679574,0.0 -73.779917,42.679841,0.0 -73.779818,42.679966,0.0 -73.779775,42.679968,0.0 -73.778775,42.679481,0.0 -73.778396,42.679301,0.0 -73.777805,42.679022,0.0 -73.777395,42.678827,0.0 -73.774999,42.677687,0.0 -73.774169,42.677294,0.0 -73.774074,42.677233,0.0 -73.774006,42.677134,0.0 -73.773992,42.677076,0.0 -73.773996,42.677043,0.0 -73.774052,42.676972,0.0 -73.774188,42.676838,0.0 -73.774525,42.676471,0.0 -73.774858,42.676059,0.0 -73.774955,42.67595,0.0 -73.774785,42.675868,0.0 -73.774029,42.675654,0.0 -73.772993,42.675353,0.0 -73.771953,42.675089,0.0 -73.771262,42.674952,0.0 -73.770954,42.674908,0.0 -73.770509,42.674874,0.0 -73.765586,42.673794,0.0 -73.765491,42.673394,0.0 -73.771192,42.670944,0.0 -73.770417,42.670495,0.0 -73.769084,42.669725,0.0 -73.768207,42.669214,0.0 -73.766274,42.668111,0.0 -73.766087,42.668004,0.0 -73.765103,42.667437,0.0 -73.764467,42.667071,0.0 -73.763882,42.666723,0.0 -73.763633,42.667057,0.0 -73.763327,42.667467,0.0 -73.763101,42.667771,0.0 -73.762714,42.668291,0.0 -73.762488,42.668594,0.0 -73.762303,42.668843,0.0 -73.762132,42.669079,0.0 -73.761561,42.669593,0.0 -73.761404,42.669732,0.0 -73.761092,42.670013,0.0 -73.760837,42.670244,0.0 -73.760648,42.670415,0.0 -73.760084,42.670688,0.0 -73.759521,42.670949,0.0 -73.757459,42.669843,0.0 -73.757188,42.66972,0.0 -73.755923,42.669009,0.0 -73.754042,42.670516,0.0 -73.754029,42.670516,0.0 -73.753772,42.670732,0.0 -73.753612,42.670867,0.0 -73.753115,42.671259,0.0 -73.75281,42.671505,0.0 -73.752367,42.671871,0.0 -73.751978,42.672197,0.0 -73.751478,42.672633,0.0 -73.751149,42.672909,0.0 -73.75051,42.673443,0.0 -73.750431,42.673505,0.0 -73.74991,42.673905,0.0 -73.749054,42.674573,0.0 -73.748922,42.674676,0.0 -73.748551,42.675006,0.0 -73.748138,42.675349,0.0 -73.747652,42.675738,0.0 -73.747603,42.675789,0.0 -73.747427,42.675938,0.0 -73.747191,42.676108,0.0 -73.74682,42.676354,0.0 -73.746719,42.676394,0.0 -73.746532,42.676475,0.0 -73.746294,42.676552,0.0 -73.743732,42.677109,0.0 -73.743584,42.677683,0.0 -73.743104,42.679361,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-21'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fc9c4a2</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-21-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fc9c4a2</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-21-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-21</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-21-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 21&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1161/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 21</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1161/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1161" target="_blank">https://local.nixle.com/signup/widget/g/1161</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-21-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>21</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1161</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.806706,42.689724,0.0 -73.807478,42.689101,0.0 -73.80827,42.68849,0.0 -73.806422,42.687077,0.0 -73.802819,42.686544,0.0 -73.801869,42.679041,0.0 -73.801202,42.678667,0.0 -73.801,42.678543,0.0 -73.800865,42.67846,0.0 -73.800839,42.678444,0.0 -73.800457,42.678226,0.0 -73.799903,42.677902,0.0 -73.798075,42.676864,0.0 -73.797692,42.676636,0.0 -73.796943,42.676191,0.0 -73.796409,42.675898,0.0 -73.796161,42.675747,0.0 -73.795669,42.675461,0.0 -73.795053,42.675103,0.0 -73.794502,42.674785,0.0 -73.79398,42.674472,0.0 -73.793471,42.674184,0.0 -73.7931,42.673972,0.0 -73.79293,42.673884,0.0 -73.792182,42.67342,0.0 -73.79099,42.672765,0.0 -73.790799,42.672646,0.0 -73.790661,42.672775,0.0 -73.790571,42.672857,0.0 -73.790524,42.672886,0.0 -73.790555,42.672981,0.0 -73.790617,42.673204,0.0 -73.790611,42.673337,0.0 -73.790581,42.6734,0.0 -73.790454,42.673523,0.0 -73.789468,42.67443,0.0 -73.789011,42.674165,0.0 -73.788828,42.674328,0.0 -73.787799,42.675273,0.0 -73.787305,42.674984,0.0 -73.786575,42.674572,0.0 -73.786306,42.674829,0.0 -73.785981,42.675138,0.0 -73.785629,42.675474,0.0 -73.785443,42.675581,0.0 -73.785269,42.67568,0.0 -73.78511,42.675781,0.0 -73.785365,42.676,0.0 -73.785881,42.676443,0.0 -73.786229,42.676742,0.0 -73.786498,42.676973,0.0 -73.787004,42.67741,0.0 -73.787173,42.677557,0.0 -73.787795,42.678095,0.0 -73.787198,42.678463,0.0 -73.78669,42.678775,0.0 -73.78641,42.678955,0.0 -73.786163,42.67912,0.0 -73.785828,42.679436,0.0 -73.785695,42.679667,0.0 -73.785649,42.679756,0.0 -73.785593,42.680002,0.0 -73.78554,42.680419,0.0 -73.783537,42.684602,0.0 -73.784896,42.68497,0.0 -73.786546,42.68584,0.0 -73.786249,42.68636,0.0 -73.786908,42.687025,0.0 -73.799582,42.688713,0.0 -73.800815,42.689459,0.0 -73.801417,42.688772,0.0 -73.806706,42.689724,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-22'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fe8c59f</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-22-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fe8c59f</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-22-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-22</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-22-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 22&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1165/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 22</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1165/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1165" target="_blank">https://local.nixle.com/signup/widget/g/1165</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-22-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>22</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1165</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.834616,42.701344,0.0 -73.841922,42.689781,0.0 -73.82064,42.682644,0.0 -73.812329,42.685109,0.0 -73.811427,42.684573,0.0 -73.809916,42.683708,0.0 -73.809742,42.683597,0.0 -73.807932,42.682554,0.0 -73.807429,42.682264,0.0 -73.805929,42.681407,0.0 -73.804373,42.680502,0.0 -73.802818,42.679595,0.0 -73.801988,42.679122,0.0 -73.801869,42.679041,0.0 -73.802821,42.68657,0.0 -73.806424,42.687103,0.0 -73.808155,42.68852,0.0 -73.806706,42.689724,0.0 -73.812104,42.69094,0.0 -73.812543,42.690413,0.0 -73.817629,42.691327,0.0 -73.827462,42.69642,0.0 -73.834616,42.701344,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-23'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fd6a7b4</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-23-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fd6a7b4</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-23-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-23</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-23-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 23&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1164/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 23</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1164/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1164" target="_blank">https://local.nixle.com/signup/widget/g/1164</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-23-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>23</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1164</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.865419,42.719712,0.0 -73.865887,42.718796,0.0 -73.866736,42.717098,0.0 -73.867653,42.715853,0.0 -73.868429,42.715062,0.0 -73.871085,42.712937,0.0 -73.874352,42.710171,0.0 -73.875999,42.708861,0.0 -73.8771,42.708052,0.0 -73.878498,42.707026,0.0 -73.873256,42.704127,0.0 -73.876083,42.700255,0.0 -73.842007,42.689645,0.0 -73.834543,42.70127,0.0 -73.835958,42.702526,0.0 -73.865419,42.719712,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-24'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fbda6d5</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-24-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fbda6d5</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-24-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-24</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-24-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 24&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1159/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 24</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1159/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1159" target="_blank">https://local.nixle.com/signup/widget/g/1159</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-24-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>24</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1159</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.870027,42.722322,0.0 -73.894196,42.713671,0.0 -73.893715,42.712416,0.0 -73.896189,42.712019,0.0 -73.897362,42.711026,0.0 -73.897167,42.710762,0.0 -73.896498,42.710963,0.0 -73.894366,42.709844,0.0 -73.897272,42.70717,0.0 -73.876083,42.700255,0.0 -73.873256,42.704127,0.0 -73.878498,42.707026,0.0 -73.877366,42.707857,0.0 -73.875743,42.709049,0.0 -73.874773,42.709823,0.0 -73.873972,42.710485,0.0 -73.873014,42.711298,0.0 -73.870806,42.713174,0.0 -73.869318,42.714311,0.0 -73.868429,42.715062,0.0 -73.867653,42.715853,0.0 -73.867187,42.71647,0.0 -73.866736,42.717098,0.0 -73.866409,42.717752,0.0 -73.865419,42.719712,0.0 -73.870027,42.722322,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-25'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f6666e0</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-25-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f6666e0</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-25-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-25</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-25-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 25&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1158/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 25</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1158/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1158" target="_blank">https://local.nixle.com/signup/widget/g/1158</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-25-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>25</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1158</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.808005,42.671638,0.0 -73.812829,42.673157,0.0 -73.8128,42.673212,0.0 -73.812689,42.673418,0.0 -73.812583,42.673615,0.0 -73.812475,42.673815,0.0 -73.812362,42.674024,0.0 -73.81224,42.674251,0.0 -73.812028,42.674643,0.0 -73.811888,42.674903,0.0 -73.81178,42.675102,0.0 -73.811664,42.675316,0.0 -73.811437,42.675734,0.0 -73.811744,42.675892,0.0 -73.812043,42.676046,0.0 -73.812307,42.676182,0.0 -73.812587,42.676326,0.0 -73.81287,42.676471,0.0 -73.813178,42.67663,0.0 -73.813455,42.676772,0.0 -73.813698,42.676897,0.0 -73.813953,42.677028,0.0 -73.814276,42.677194,0.0 -73.814572,42.677347,0.0 -73.81487,42.6775,0.0 -73.815211,42.677675,0.0 -73.815633,42.677892,0.0 -73.816063,42.678113,0.0 -73.816358,42.678265,0.0 -73.816604,42.678391,0.0 -73.816887,42.678537,0.0 -73.81696,42.678574,0.0 -73.817335,42.678767,0.0 -73.817657,42.678933,0.0 -73.817862,42.679039,0.0 -73.81805,42.679136,0.0 -73.818353,42.679293,0.0 -73.818641,42.679442,0.0 -73.818897,42.679574,0.0 -73.819208,42.679734,0.0 -73.819486,42.679878,0.0 -73.819802,42.680042,0.0 -73.820052,42.680172,0.0 -73.820367,42.680335,0.0 -73.820619,42.680466,0.0 -73.820875,42.680598,0.0 -73.821207,42.68077,0.0 -73.82159,42.680968,0.0 -73.821909,42.681132,0.0 -73.8221,42.68123,0.0 -73.826151,42.677417,0.0 -73.826676,42.677514,0.0 -73.826995,42.676954,0.0 -73.830117,42.676076,0.0 -73.828894,42.672575,0.0 -73.828501,42.669815,0.0 -73.827559,42.668643,0.0 -73.825473,42.6676,0.0 -73.824616,42.665444,0.0 -73.82599,42.664287,0.0 -73.830391,42.660641,0.0 -73.827795,42.659132,0.0 -73.82445,42.659149,0.0 -73.823229,42.660091,0.0 -73.82148,42.660266,0.0 -73.808005,42.671638,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-26'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f6bb2f6</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-26-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f6bb2f6</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-26-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-26</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-26-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 26&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1163/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 26</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1163/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1163" target="_blank">https://local.nixle.com/signup/widget/g/1163</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-26-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>26</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1163</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.808005,42.671638,0.0 -73.810893,42.669201,0.0 -73.816163,42.664754,0.0 -73.821481,42.660266,0.0 -73.823626,42.657618,0.0 -73.811356,42.64807,0.0 -73.806495,42.653899,0.0 -73.800523,42.662534,0.0 -73.799983,42.663077,0.0 -73.797303,42.661536,0.0 -73.792003,42.666565,0.0 -73.795352,42.667616,0.0 -73.808005,42.671638,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-27'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f66d9ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-27-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f66d9ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-27-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-27</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-27-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 27&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1162/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 27</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1162/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1162" target="_blank">https://local.nixle.com/signup/widget/g/1162</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-27-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>27</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1162</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.811493,42.648158,0.0 -73.823667,42.657653,0.0 -73.824099,42.656937,0.0 -73.825161,42.656928,0.0 -73.826162,42.655815,0.0 -73.829944,42.655225,0.0 -73.830235,42.654874,0.0 -73.832603,42.65483,0.0 -73.836185,42.654347,0.0 -73.837417,42.653475,0.0 -73.838246,42.654037,0.0 -73.841498,42.652198,0.0 -73.842317,42.652452,0.0 -73.84632,42.6501,0.0 -73.847329,42.64865,0.0 -73.846339,42.648614,0.0 -73.846008,42.647964,0.0 -73.845512,42.647001,0.0 -73.846004,42.645492,0.0 -73.846197,42.64362,0.0 -73.845384,42.642384,0.0 -73.843381,42.641627,0.0 -73.840539,42.642102,0.0 -73.839042,42.641908,0.0 -73.837694,42.641049,0.0 -73.835206,42.640176,0.0 -73.832334,42.640946,0.0 -73.830369,42.641251,0.0 -73.827323,42.640713,0.0 -73.824998,42.641246,0.0 -73.822423,42.640446,0.0 -73.820897,42.641431,0.0 -73.819469,42.643937,0.0 -73.816021,42.644427,0.0 -73.813034,42.641769,0.0 -73.807958,42.645909,0.0 -73.811493,42.648158,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-28'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f7dc493</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-28-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f7dc493</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-28-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-28</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-28-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 28&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1157/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 28</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1157/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1157" target="_blank">https://local.nixle.com/signup/widget/g/1157</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-28-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>28</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1157</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.806495,42.653899,0.0 -73.808802,42.651132,0.0 -73.811305,42.648037,0.0 -73.807958,42.645909,0.0 -73.812864,42.641908,0.0 -73.811863,42.640761,0.0 -73.808798,42.638724,0.0 -73.809974,42.637225,0.0 -73.809713,42.63599,0.0 -73.809373,42.634088,0.0 -73.809288,42.632705,0.0 -73.807274,42.631808,0.0 -73.805246,42.63311,0.0 -73.803071,42.634266,0.0 -73.801028,42.634547,0.0 -73.798097,42.63391,0.0 -73.79063,42.637455,0.0 -73.792222,42.638401,0.0 -73.79005,42.64058,0.0 -73.789464,42.640482,0.0 -73.788524,42.641722,0.0 -73.789294,42.642146,0.0 -73.786657,42.644645,0.0 -73.797589,42.649779,0.0 -73.802945,42.652383,0.0 -73.806495,42.653899,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-29'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fafa576</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-29-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fafa576</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-29-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-29</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-29-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 29&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1160/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 29</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1160/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1160" target="_blank">https://local.nixle.com/signup/widget/g/1160</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-29-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>29</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1160</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.776436,42.635716,0.0 -73.777761,42.635908,0.0 -73.778639,42.633448,0.0 -73.780238,42.633687,0.0 -73.782985,42.634298,0.0 -73.78371,42.634543,0.0 -73.784276,42.634723,0.0 -73.790482,42.637552,0.0 -73.798051,42.633751,0.0 -73.797901,42.632835,0.0 -73.797442,42.631575,0.0 -73.798168,42.630103,0.0 -73.797141,42.629742,0.0 -73.79505,42.629672,0.0 -73.795854,42.626983,0.0 -73.792044,42.626585,0.0 -73.789232,42.627781,0.0 -73.786368,42.626808,0.0 -73.781423,42.624566,0.0 -73.780538,42.625823,0.0 -73.777035,42.625273,0.0 -73.774932,42.634235,0.0 -73.776436,42.635716,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-30'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fdca86f</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-30-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fdca86f</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-30-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-30</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-30-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 30&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1150/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 30</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1150/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1150" target="_blank">https://local.nixle.com/signup/widget/g/1150</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-30-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>30</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1150</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.752752,42.645356,0.0 -73.752467,42.644918,0.0 -73.752054,42.643854,0.0 -73.75209,42.642488,0.0 -73.752621,42.641266,0.0 -73.752926,42.640801,0.0 -73.753073,42.640262,0.0 -73.753795,42.639141,0.0 -73.754373,42.63864,0.0 -73.763827,42.633703,0.0 -73.776436,42.635716,0.0 -73.774947,42.634001,0.0 -73.775574,42.631501,0.0 -73.777019,42.62549,0.0 -73.775722,42.625138,0.0 -73.772937,42.622771,0.0 -73.771932,42.622199,0.0 -73.769473,42.621227,0.0 -73.768897,42.620272,0.0 -73.766669,42.620229,0.0 -73.764364,42.619741,0.0 -73.765186,42.614615,0.0 -73.76357,42.614991,0.0 -73.762909,42.614061,0.0 -73.760006,42.613623,0.0 -73.754083,42.626582,0.0 -73.752167,42.635096,0.0 -73.747594,42.643761,0.0 -73.750718,42.644972,0.0 -73.752752,42.645356,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-31'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fc37c8e</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-31-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fc37c8e</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-31-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-31</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-31-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 31&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1151/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 31</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1151/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1151" target="_blank">https://local.nixle.com/signup/widget/g/1151</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-31-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>31</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1151</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.784991,42.65295,0.0 -73.785886,42.645585,0.0 -73.786786,42.644716,0.0 -73.784789,42.643811,0.0 -73.783937,42.643683,0.0 -73.783073,42.643714,0.0 -73.781833,42.643965,0.0 -73.773532,42.646798,0.0 -73.772669,42.647334,0.0 -73.7715,42.645652,0.0 -73.771193,42.64545,0.0 -73.767627,42.644545,0.0 -73.766619,42.645919,0.0 -73.766325,42.647106,0.0 -73.765828,42.647678,0.0 -73.769008,42.649457,0.0 -73.768642,42.650248,0.0 -73.773831,42.65328,0.0 -73.77508,42.652593,0.0 -73.777024,42.652462,0.0 -73.777865,42.652555,0.0 -73.779262,42.652643,0.0 -73.781533,42.652776,0.0 -73.784991,42.65295,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-32'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fa07bc2</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-32-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7fa07bc2</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-32-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-32</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-32-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 32&lt;/td&gt;
+&lt;a
+href="https://local.nixle.com/signup/widget/g/1153/"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 32</td>
+<td><a href="https://local.nixle.com/signup/widget/g/1153/">
+
+</a></td></tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1153" target="_blank">https://local.nixle.com/signup/widget/g/1153</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-32-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>32</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1153</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.787506,42.670752,0.0 -73.789943,42.672152,0.0 -73.791612,42.673099,0.0 -73.792188,42.673415,0.0 -73.793509,42.674197,0.0 -73.795675,42.675456,0.0 -73.797185,42.676331,0.0 -73.798527,42.677112,0.0 -73.800565,42.678281,0.0 -73.80158,42.678871,0.0 -73.802551,42.679436,0.0 -73.806537,42.681756,0.0 -73.809097,42.683226,0.0 -73.811031,42.684338,0.0 -73.812329,42.685109,0.0 -73.820652,42.68264,0.0 -73.8221,42.681231,0.0 -73.821785,42.681069,0.0 -73.821362,42.68085,0.0 -73.820896,42.680609,0.0 -73.820654,42.680484,0.0 -73.820122,42.680209,0.0 -73.819757,42.680018,0.0 -73.819346,42.679806,0.0 -73.819095,42.679676,0.0 -73.818523,42.679382,0.0 -73.81805,42.679137,0.0 -73.817528,42.678867,0.0 -73.817015,42.678603,0.0 -73.816564,42.678371,0.0 -73.816189,42.678178,0.0 -73.815632,42.677892,0.0 -73.814787,42.677457,0.0 -73.814225,42.677168,0.0 -73.813624,42.676859,0.0 -73.813435,42.676762,0.0 -73.813047,42.676562,0.0 -73.812925,42.6765,0.0 -73.812653,42.67636,0.0 -73.812306,42.676182,0.0 -73.811851,42.675948,0.0 -73.811437,42.675734,0.0 -73.811834,42.675002,0.0 -73.81224,42.674251,0.0 -73.812673,42.673447,0.0 -73.8128,42.673212,0.0 -73.812829,42.673157,0.0 -73.810687,42.672482,0.0 -73.804316,42.670474,0.0 -73.801713,42.669642,0.0 -73.801559,42.66961,0.0 -73.798234,42.668523,0.0 -73.795782,42.66775,0.0 -73.793114,42.66691,0.0 -73.792013,42.666544,0.0 -73.791147,42.667321,0.0 -73.790106,42.668347,0.0 -73.789613,42.668799,0.0 -73.789044,42.669311,0.0 -73.788493,42.669867,0.0 -73.787506,42.670752,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-33'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000cc</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-33-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000cc</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-33-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-33</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-33-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BEAT 33&lt;/td&gt;
+&lt;ahref="https://local.nixle.com/signup/widget/g/1152"&lt;/a&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Text:</b> 
+
+
+
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9cbce2">
+
+<td>BEAT 33</td>
+
+
+</tr></table>
+
+<br>
+<b>Click to register:</b> <a href="https://local.nixle.com/signup/widget/g/1152" target="_blank">https://local.nixle.com/signup/widget/g/1152</a>
+</div>]]></description>
+			<styleUrl>#Style2-polygon-33-map</styleUrl>
+			<ExtendedData>
+				<Data name='Number'>
+					<value>33</value>
+				</Data>
+				<Data name='Date'>
+					<value></value>
+				</Data>
+				<Data name='Click to register'>
+					<value>https://local.nixle.com/signup/widget/g/1152</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.758982,42.654273,0.0 -73.759515,42.653639,0.0 -73.760059,42.653294,0.0 -73.765773,42.647662,0.0 -73.765217,42.647773,0.0 -73.764527,42.647835,0.0 -73.763873,42.647679,0.0 -73.763556,42.647455,0.0 -73.763127,42.646739,0.0 -73.762616,42.645912,0.0 -73.761547,42.645258,0.0 -73.758461,42.648223,0.0 -73.758293,42.648707,0.0 -73.758262,42.649231,0.0 -73.757572,42.649612,0.0 -73.756831,42.649838,0.0 -73.754592,42.652114,0.0 -73.755152,42.652106,0.0 -73.758982,42.654273,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+	</Document>
+</kml>

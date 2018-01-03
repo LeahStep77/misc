@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<ScreenOverlay>
+<name>NOAA/NWS/SPC Storm Reports</name>
+<visibility>1</visibility>
+<Icon>
+<href>http://www.weather.gov/images/xml_logo.gif</href>
+</Icon>
+<overlayXY x="0" y="-1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+
+<StyleMap id="tornado">
+  <Pair>
+    <key>normal</key>
+    <styleUrl>#tornado_n</styleUrl>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <styleUrl>#tornado_h</styleUrl>
+  </Pair>
+</StyleMap>
+<Style id="tornado_n">
+  <LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>http://www.spc.noaa.gov/misc/reports_kml/torn.png</href>
+    </Icon>
+  </IconStyle>
+  <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+<Style id="tornado_h">
+  <LabelStyle>
+    <scale>1</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.3</scale>
+    <Icon>
+    <href>http://www.spc.noaa.gov/misc/reports_kml/torn.png</href>
+    </Icon>
+  </IconStyle>
+    <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+
+<StyleMap id="wind">
+  <Pair>
+    <key>normal</key>
+    <styleUrl>#wind_n</styleUrl>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <styleUrl>#wind_h</styleUrl>
+  </Pair>
+</StyleMap>
+<Style id="wind_n">
+  <LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>http://www.spc.noaa.gov/misc/reports_kml/wind.png</href>
+    </Icon>
+  </IconStyle>
+  <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+<Style id="wind_h">
+  <LabelStyle>
+    <scale>1</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.3</scale>
+    <Icon>
+    <href>http://www.spc.noaa.gov/misc/reports_kml/wind.png</href>
+    </Icon>
+  </IconStyle>
+    <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+
+<StyleMap id="strong_wind">
+  <Pair>
+    <key>normal</key>
+    <styleUrl>#strongwind_n</styleUrl>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <styleUrl>#strongwind_h</styleUrl>
+  </Pair>
+</StyleMap>
+<Style id="strongwind_n">
+  <LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>http://www.spc.noaa.gov/misc/reports_kml/strongwind.png</href>
+    </Icon>
+  </IconStyle>
+  <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+<Style id="strongwind_h">
+  <LabelStyle>
+    <scale>1</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.3</scale>
+    <Icon>
+    <href>http://www.spc.noaa.gov/misc/reports_kml/strongwind.png</href>
+    </Icon>
+  </IconStyle>
+    <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+
+<StyleMap id="hail">
+  <Pair>
+    <key>normal</key>
+    <styleUrl>#hail_n</styleUrl>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <styleUrl>#hail_h</styleUrl>
+  </Pair>
+</StyleMap>
+<Style id="hail_n">
+  <LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>http://www.spc.noaa.gov/misc/reports_kml/hail.png</href>
+    </Icon>
+  </IconStyle>
+  <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+<Style id="hail_h">
+  <LabelStyle>
+    <scale>1</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.3</scale>
+    <Icon>
+    <href>http://www.spc.noaa.gov/misc/reports_kml/hail.png</href>
+    </Icon>
+  </IconStyle>
+    <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+
+<StyleMap id="large_hail">
+  <Pair>
+    <key>normal</key>
+    <styleUrl>#largehail_n</styleUrl>
+  </Pair>
+  <Pair>
+    <key>highlight</key>
+    <styleUrl>#largehail_h</styleUrl>
+  </Pair>
+</StyleMap>
+<Style id="largehail_n">
+  <LabelStyle>
+    <scale>0</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.1</scale>
+    <Icon>
+      <href>http://www.spc.noaa.gov/misc/reports_kml/largehail.png</href>
+    </Icon>
+  </IconStyle>
+  <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+<Style id="largehail_h">
+  <LabelStyle>
+    <scale>1</scale>
+  </LabelStyle>
+  <IconStyle>
+    <scale>1.3</scale>
+    <Icon>
+    <href>http://www.spc.noaa.gov/misc/reports_kml/largehail.png</href>
+    </Icon>
+  </IconStyle>
+    <BalloonStyle>
+    <text>$[description]</text>
+  </BalloonStyle>
+</Style>
+
+<Folder>
+  <name>SPC Storm Reports KML Info</name>
+  <open>1</open>
+  <visibility>1</visibility>
+  <description>
+    <![CDATA[
+      <html><body>
+      <table width="250px"><tr><td colspan="2">
+      <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/US-NationalWeatherService-Logo.svg/64px-US-NationalWeatherService-Logo.svg.png" alt="NOAA/NWS Logo"><br />
+      <p>
+      The NOAA/NWS/SPC Storm Reports KML is experimental.<br />
+      Adjust the time slider on top of the GoogleEarth display to view reports.<br />
+      Please send feedback to <a href="http://www.spc.noaa.gov/misc/feedback.html">www.spc.noaa.gov/misc/feedback.html</a><br />
+      NOTE: Storm Reports data are preliminary and unofficial.<br />
+      For official reports, go to <a href="http://www4.ncdc.noaa.gov/cgi-win/wwcgi.dll?wwEvent~Storms">NCDC Storm Events Database</a><br />
+      <img src="http://www.spc.noaa.gov/misc/reports_kml/torn.png" alt="Torndado Marking">Tornado Reports<br />
+      <img src="http://www.spc.noaa.gov/misc/reports_kml/wind.png" alt="Wind Marking">Wind Reports<br />
+      <img src="http://www.spc.noaa.gov/misc/reports_kml/strongwind.png" alt="High Wind Marking">High Wind Reports (65KT +)<br />
+      <img src="http://www.spc.noaa.gov/misc/reports_kml/hail.png" alt="Hail Marking">Hail Reports<br />
+      <img src="http://www.spc.noaa.gov/misc/reports_kml/largehail.png" alt="Large Hail Marking">Large Hail Reports (2" dia. +)
+      </p>
+      </td></tr>
+      </body></html>
+    ]]>
+  </description>
+</Folder>
+<Folder>
+<name>SPC Tornado Reports 2018-01-03 1200Z - 2018-01-04 1159Z</name>
+<visibility>1</visibility>
+<open>0</open>
+</Folder>
+<Folder>
+<name>SPC Damaging Wind Reports 2018-01-03 1200Z - 2018-01-04 1159Z</name>
+<visibility>1</visibility>
+<open>0</open>
+</Folder>
+<Folder>
+<name>SPC Hail Reports 2018-01-03 1200Z - 2018-01-04 1159Z</name>
+<visibility>1</visibility>
+<open>0</open>
+</Folder>
+</Document>
+</kml>

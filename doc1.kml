@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Placemark>
+      <name>MODERATE TROPICAL STORM Ava</name>
+      <description><![CDATA[&nbsp;]]></description>
+      <Style>
+        <IconStyle>
+          <scale>0.7</scale>
+          <Icon>
+            <href>http://mw1.google.com/mw-weather/base/files/static/hurricanes/icons/32px/bluefill-blacktrim/tropical-storm.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+        <BalloonStyle>
+          <text><![CDATA[
+          <table width="100%">
+           <tr>
+            <td style="text-align:center;">
+              <div style="margin-top:3px;"><b>As of $[LOCAL_TIME]</b></div>
+            </td>
+            </tr>
+            <tr>
+              <td>
+              <br /><strong>
+              Storm Name:</strong> $[STORMNAME]</td>
+            </tr>
+            <tr>
+              <td>
+              <strong>Storm Type:</strong> $[STORM_DESCRIPTION]</td>
+            </tr>
+            <tr>
+              <td>
+              <strong>Maximum sustained winds:</strong> $[INTENSITY]
+              knots ($[INTENSITY_MPH] mph)
+              </td>
+            </tr>
+            <tr>
+              <td>
+              <strong>Storm Movement:</strong> $[TCDIR_TEXT]
+              ($[TCDIR] degrees)</td>
+            </tr>
+            <tr>
+              <td>
+                More information: $[STORM_HYPERLINK]
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <div style="margin-top:25px;">Sources:
+                 <a target="_blank" href="http://www.nhc.noaa.gov/">NOAA National Hurricane Center</a>,<br /> 
+                 <a target="_blank" href="http://severe.worldweather.wmo.int/tc/wnp/index.html">World Meteorological Organization</a>
+                $[description]</div>
+              </td>
+            </tr>
+          </table>]]></text>
+        </BalloonStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="INTENSITY_MPH">
+          <value>40.28</value>
+        </Data>
+        <Data name="EXTENT">
+          <value/>
+        </Data>
+        <Data name="STORMNAME">
+          <value>AVA</value>
+        </Data>
+        <Data name="STORM_DESCRIPTION">
+          <value>MODERATE TROPICAL STORM</value>
+        </Data>
+        <Data name="BASIN">
+          <value>swi</value>
+        </Data>
+        <Data name="HHMM">
+          <value>1200</value>
+        </Data>
+        <Data name="MAXWIND">
+          <value/>
+        </Data>
+        <Data name="TCSPEED_TEXT">
+          <value/>
+        </Data>
+        <Data name="BASIN_NAME">
+          <value>South West Indian Ocean</value>
+        </Data>
+        <Data name="STORMTYPE">
+          <value>MODERATE TROPICAL STORM</value>
+        </Data>
+        <Data name="MSLP">
+          <value>993</value>
+        </Data>
+        <Data name="LAT">
+          <value>-16.2</value>
+        </Data>
+        <Data name="STORM_HYPERLINK">
+          <value>http://severe.worldweather.wmo.int/tc/swi/</value>
+        </Data>
+        <Data name="TAU">
+          <value>120</value>
+        </Data>
+        <Data name="STORMSRC">
+          <value>La Reunion-Tropical Cyclone Centre/Meteo-France</value>
+        </Data>
+        <Data name="LON">
+          <value>53.2</value>
+        </Data>
+        <Data name="NEAREST_STATES">
+          <value/>
+        </Data>
+        <Data name="TCSPEED_MPH">
+          <value>11.51</value>
+        </Data>
+        <Data name="TCDIR">
+          <value/>
+        </Data>
+        <Data name="EPOCH_TIME">
+          <value>1514980800</value>
+        </Data>
+        <Data name="ADVISORY_LOCATION">
+          <value/>
+        </Data>
+        <Data name="MONTH">
+          <value>January</value>
+        </Data>
+        <Data name="ADVISNUM">
+          <value>15</value>
+        </Data>
+        <Data name="MAXWIND_MPH">
+          <value/>
+        </Data>
+        <Data name="STORMNUM">
+          <value>1</value>
+        </Data>
+        <Data name="SS">
+          <value/>
+        </Data>
+        <Data name="ADVISORY">
+          <value>Tropical Cyclone Advisory</value>
+        </Data>
+        <Data name="STORM_GRAPHIC">
+          <value/>
+        </Data>
+        <Data name="LOCAL_TIME">
+          <value>2018-01-03T16:00</value>
+        </Data>
+        <Data name="INTENSITY">
+          <value>35</value>
+        </Data>
+        <Data name="YEAR">
+          <value>2018</value>
+        </Data>
+        <Data name="TCSPEED">
+          <value>10</value>
+        </Data>
+        <Data name="DAY">
+          <value>03</value>
+        </Data>
+        <Data name="DATA_PROVIDER">
+          <value>WMO</value>
+        </Data>
+        <Data name="TCDIR_TEXT">
+          <value>No data</value>
+        </Data>
+        <Data name="EXTENT">
+          <value>(50.2, 56.2, -19.2, -13.2)</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          53.2,-16.2,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Style>
+        <LineStyle>
+          <color>00000000</color>
+          <width>0</width>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <coordinates>
+          43.2,-6.2,0
+          63.2,-9,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Bolaven</name>
+      <description><![CDATA[&nbsp;]]></description>
+      <Style>
+        <IconStyle>
+          <scale>0.7</scale>
+          <Icon>
+            <href>http://mw1.google.com/mw-weather/base/files/static/hurricanes/icons/32px/bluefill-blacktrim/tropical-storm.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>0</scale>
+        </LabelStyle>
+        <BalloonStyle>
+          <text><![CDATA[
+          <table width="100%">
+           <tr>
+            <td style="text-align:center;">
+              <div style="margin-top:3px;"><b>As of $[LOCAL_TIME]</b></div>
+            </td>
+            </tr>
+            <tr>
+              <td>
+              <br /><strong>
+              Storm Name:</strong> $[STORMNAME]</td>
+            </tr>
+            <tr>
+              <td>
+              <strong>Storm Type:</strong> $[STORM_DESCRIPTION]</td>
+            </tr>
+            <tr>
+              <td>
+              <strong>Maximum sustained winds:</strong> $[INTENSITY]
+              knots ($[INTENSITY_MPH] mph)
+              </td>
+            </tr>
+            <tr>
+              <td>
+              <strong>Storm Movement:</strong> $[TCDIR_TEXT]
+              ($[TCDIR] degrees)</td>
+            </tr>
+            <tr>
+              <td>
+                More information: $[STORM_HYPERLINK]
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <div style="margin-top:25px;">Sources:
+                 <a target="_blank" href="http://www.nhc.noaa.gov/">NOAA National Hurricane Center</a>,<br /> 
+                 <a target="_blank" href="http://severe.worldweather.wmo.int/tc/wnp/index.html">World Meteorological Organization</a>
+                $[description]</div>
+              </td>
+            </tr>
+          </table>]]></text>
+        </BalloonStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="INTENSITY_MPH">
+          <value>40.28</value>
+        </Data>
+        <Data name="EXTENT">
+          <value/>
+        </Data>
+        <Data name="STORMNAME">
+          <value>BOLAVEN</value>
+        </Data>
+        <Data name="STORM_DESCRIPTION">
+          <value>Tropical Storm</value>
+        </Data>
+        <Data name="BASIN">
+          <value>wp</value>
+        </Data>
+        <Data name="HHMM">
+          <value>1500</value>
+        </Data>
+        <Data name="MAXWIND">
+          <value/>
+        </Data>
+        <Data name="TCSPEED_TEXT">
+          <value/>
+        </Data>
+        <Data name="BASIN_NAME">
+          <value>West Pacific</value>
+        </Data>
+        <Data name="STORMTYPE">
+          <value>Tropical Storm</value>
+        </Data>
+        <Data name="MSLP">
+          <value>1002</value>
+        </Data>
+        <Data name="LAT">
+          <value>11.6</value>
+        </Data>
+        <Data name="STORM_HYPERLINK">
+          <value>http://severe.worldweather.wmo.int/tc/wnp/index.html</value>
+        </Data>
+        <Data name="TAU">
+          <value>24</value>
+        </Data>
+        <Data name="STORMSRC">
+          <value>RSMC Tokyo - Typhoon Center</value>
+        </Data>
+        <Data name="LON">
+          <value>112.6</value>
+        </Data>
+        <Data name="NEAREST_STATES">
+          <value/>
+        </Data>
+        <Data name="TCSPEED_MPH">
+          <value>14.96</value>
+        </Data>
+        <Data name="TCDIR">
+          <value/>
+        </Data>
+        <Data name="EPOCH_TIME">
+          <value>1514991600</value>
+        </Data>
+        <Data name="ADVISORY_LOCATION">
+          <value/>
+        </Data>
+        <Data name="MONTH">
+          <value>January</value>
+        </Data>
+        <Data name="ADVISNUM">
+          <value/>
+        </Data>
+        <Data name="MAXWIND_MPH">
+          <value/>
+        </Data>
+        <Data name="STORMNUM">
+          <value>1801</value>
+        </Data>
+        <Data name="SS">
+          <value/>
+        </Data>
+        <Data name="ADVISORY">
+          <value/>
+        </Data>
+        <Data name="STORM_GRAPHIC">
+          <value/>
+        </Data>
+        <Data name="LOCAL_TIME">
+          <value>2018-01-04T00:00</value>
+        </Data>
+        <Data name="INTENSITY">
+          <value>35</value>
+        </Data>
+        <Data name="YEAR">
+          <value>2018</value>
+        </Data>
+        <Data name="TCSPEED">
+          <value>13</value>
+        </Data>
+        <Data name="DAY">
+          <value>3</value>
+        </Data>
+        <Data name="DATA_PROVIDER">
+          <value>WMO</value>
+        </Data>
+        <Data name="TCDIR_TEXT">
+          <value>No data</value>
+        </Data>
+        <Data name="EXTENT">
+          <value>(109.6, 115.6, 8.6, 14.6)</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.6,11.6,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Style>
+        <LineStyle>
+          <color>00000000</color>
+          <width>0</width>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <coordinates>
+          102.6,21.6,0
+          122.6,1.6,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+<Folder id="SV">
+<name>NWS SVR Warnings</name>
+<description>NWS Active Warnings generated at 2018/01/03 16:52:02</description>
+<Style id="SV">
+<LabelStyle>
+<scale>0.7</scale>
+</LabelStyle>
+<LineStyle>
+<color>7fff0000</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>7fff0000</color>
+</PolyStyle>
+<IconStyle>
+<scale>0.4</scale>
+<Icon><href>http://www.weather.gov/images/crh/svr.gif</href></Icon>
+</IconStyle>
+</Style>
+</Folder>
+<Folder id="TO">
+<name>NWS TOR Warnings</name>
+<description>NWS Active Warnings generated at 2018/01/03 16:52:02</description>
+<Style id="TO">
+<LabelStyle>
+<scale>0.7</scale>
+</LabelStyle>
+<LineStyle>
+<color>7f0000ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>7f0000ff</color>
+</PolyStyle>
+<IconStyle>
+<scale>0.4</scale>
+<Icon><href>http://www.weather.gov/images/crh/tor.gif</href></Icon>
+</IconStyle>
+</Style>
+</Folder>
+<Folder id="FF">
+<name>NWS FFW Warnings</name>
+<description>NWS Active Warnings generated at 2018/01/03 16:52:02</description>
+<Style id="FF">
+<LabelStyle>
+<scale>0.7</scale>
+</LabelStyle>
+<LineStyle>
+<color>7f00ff00</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+<IconStyle>
+<scale>0.4</scale>
+<Icon><href>http://www.weather.gov/images/crh/ff.gif</href></Icon>
+</IconStyle>
+</Style>
+</Folder>
+<Folder id="MA">
+<name>NWS SMW Warnings</name>
+<description>NWS Active Warnings generated at 2018/01/03 16:52:02</description>
+<Style id="MA">
+<LabelStyle>
+<scale>0.7</scale>
+</LabelStyle>
+<LineStyle>
+<color>7f0066ff</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>7f0066ff</color>
+</PolyStyle>
+<IconStyle>
+<scale>0.4</scale>
+<Icon><href>http://www.weather.gov/images/crh/sw.gif</href></Icon>
+</IconStyle>
+</Style>
+</Folder>
+</Folder>
+</kml>
